@@ -1,0 +1,651 @@
+property_id,title,property_type,location,sqft,bedrooms,bathrooms,age,garage,distance_to_center_km,amenities,amenity_count,price
+PROP-1001,Contemporary Tech Corridor Penthouse,Single Family,Tech Corridor,2473,4,3.5,7,2,3.1,Private Garden; Solar Panels,2,1057000
+PROP-1002,Charming Downtown Penthouse,Condo,Downtown,450,2,2.5,42,0,3.0,Private Garden,1,279000
+PROP-1003,Cozy Tech Corridor Retreat,Condo,Tech Corridor,804,1,1.0,8,0,5.3,EV Fast Charger; Home Cinema; Private Garden; Scenic Balcony,4,402000
+PROP-1004,Charming Historic District Residence,Single Family,Historic District,2649,5,4.5,18,2,3.8,24/7 Gated Security; Fitness Center; Scenic Balcony; Smart Home Automation,4,809000
+PROP-1005,Luxury Downtown Oasis,Single Family,Downtown,3607,5,4.5,2,2,0.5,24/7 Gated Security; Smart Home Automation,2,1653000
+PROP-1006,Charming Waterfront Manor,Villa,Waterfront,3379,5,5.5,6,3,5.3,24/7 Gated Security; Home Cinema; Smart Home Automation; Wine Cellar,4,1913000
+PROP-1007,Contemporary Downtown Villa,Single Family,Downtown,1906,4,3.5,13,2,1.3,Fitness Center; Private Garden,2,921000
+PROP-1008,Charming Suburbs Retreat,Condo,Suburbs,1644,3,2.5,17,1,21.2,24/7 Gated Security; Wine Cellar,2,450000
+PROP-1009,Exclusive Tech Corridor Loft,Townhouse,Tech Corridor,1715,4,3.5,2,1,2.8,Solar Panels,1,872000
+PROP-1010,Luxury Downtown Residence,Single Family,Downtown,1645,3,3.5,5,2,1.2,24/7 Gated Security; Fitness Center; Home Cinema; Private Garden; Scenic Balcony; Swimming Pool,6,930000
+PROP-1011,Serene Suburbs Oasis,Single Family,Suburbs,1578,2,1.5,45,1,18.8,24/7 Gated Security; EV Fast Charger; Home Cinema; Private Garden; Wine Cellar,5,359000
+PROP-1012,Serene Downtown Residence,Single Family,Downtown,2520,4,4.5,0,2,1.4,Home Cinema; Scenic Balcony; Smart Home Automation; Wine Cellar,4,1351000
+PROP-1013,Spacious Suburbs Villa,Villa,Suburbs,2744,5,6.0,4,3,18.2,24/7 Gated Security; EV Fast Charger; Fitness Center; Swimming Pool; Wine Cellar,5,854000
+PROP-1014,Exclusive Tech Corridor Haven,Single Family,Tech Corridor,2659,4,4.5,14,1,7.4,EV Fast Charger; Home Cinema; Smart Home Automation,3,1021000
+PROP-1015,Spacious Tech Corridor Oasis,Single Family,Tech Corridor,3022,5,4.5,6,2,2.7,24/7 Gated Security; Fitness Center; Private Garden; Smart Home Automation; Solar Panels,5,1358000
+PROP-1016,Modern Downtown Penthouse,Townhouse,Downtown,1224,3,3.0,11,1,2.0,Fitness Center; Home Cinema; Scenic Balcony; Solar Panels,4,741000
+PROP-1017,Classic Tech Corridor Oasis,Single Family,Tech Corridor,3092,5,4.5,4,2,3.2,Home Cinema; Smart Home Automation; Swimming Pool; Wine Cellar,4,1432000
+PROP-1018,Contemporary Downtown Oasis,Penthouse,Downtown,2058,4,4.5,4,3,0.7,EV Fast Charger; Fitness Center; Private Garden; Smart Home Automation; Swimming Pool; Wine Cellar,6,1204000
+PROP-1019,Modern Historic District Penthouse,Villa,Historic District,4306,6,6.0,0,3,4.8,EV Fast Charger; Fitness Center; Smart Home Automation; Solar Panels; Wine Cellar,5,1486000
+PROP-1020,Modern Hillside View Villa,Condo,Hillside View,732,1,1.0,14,1,7.0,Home Cinema; Private Garden,2,329000
+PROP-1021,Charming Greenfield Loft,Condo,Greenfield,783,2,1.5,0,1,19.3,EV Fast Charger; Fitness Center; Home Cinema,3,263000
+PROP-1022,Contemporary Downtown Haven,Single Family,Downtown,2649,4,3.5,45,1,1.2,Private Garden; Swimming Pool; Wine Cellar,3,885000
+PROP-1023,Charming Suburbs Penthouse,Penthouse,Suburbs,2767,4,4.0,12,2,17.5,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Solar Panels,6,728000
+PROP-1024,Charming Downtown Manor,Villa,Downtown,2400,4,5.0,17,3,1.1,EV Fast Charger; Home Cinema; Private Garden; Scenic Balcony; Wine Cellar,5,1199000
+PROP-1025,Luxury Downtown Villa,Condo,Downtown,749,2,2.0,9,1,0.6,EV Fast Charger; Fitness Center; Swimming Pool,3,549000
+PROP-1026,Charming Tech Corridor Penthouse,Townhouse,Tech Corridor,1501,4,3.5,4,2,3.9,Private Garden,1,807000
+PROP-1027,Urban Suburbs Penthouse,Condo,Suburbs,1171,3,3.0,14,0,13.4,Fitness Center; Private Garden,2,398000
+PROP-1028,Spacious Downtown Villa,Townhouse,Downtown,1415,2,2.5,3,2,2.4,Fitness Center; Private Garden; Swimming Pool,3,776000
+PROP-1029,Luxury Waterfront Villa,Single Family,Waterfront,2325,5,4.5,1,1,13.9,Scenic Balcony; Solar Panels; Swimming Pool,3,1342000
+PROP-1030,Spacious Suburbs Loft,Townhouse,Suburbs,1727,3,2.5,15,1,20.6,EV Fast Charger; Home Cinema; Scenic Balcony,3,461000
+PROP-1031,Cozy Suburbs Oasis,Villa,Suburbs,3975,6,6.0,18,4,17.4,24/7 Gated Security; Home Cinema; Scenic Balcony; Swimming Pool; Wine Cellar,5,953000
+PROP-1032,Cozy Waterfront Manor,Penthouse,Waterfront,1875,3,4.0,4,3,7.4,Fitness Center; Home Cinema; Solar Panels; Swimming Pool,4,1245000
+PROP-1033,Charming Tech Corridor Townhome,Single Family,Tech Corridor,900,2,1.5,0,1,5.7,Wine Cellar,1,472000
+PROP-1034,Modern Tech Corridor Loft,Condo,Tech Corridor,834,2,2.5,4,1,6.0,24/7 Gated Security; Home Cinema; Wine Cellar,3,501000
+PROP-1035,Urban Tech Corridor Residence,Single Family,Tech Corridor,3450,5,4.5,45,2,5.7,Smart Home Automation; Solar Panels,2,1009000
+PROP-1036,Exclusive Greenfield Loft,Villa,Greenfield,3701,5,5.5,13,3,29.7,Fitness Center; Home Cinema; Wine Cellar,3,698000
+PROP-1037,Classic Waterfront Retreat,Single Family,Waterfront,2197,4,4.5,0,2,14.9,Fitness Center; Private Garden,2,1148000
+PROP-1038,Exclusive Downtown Retreat,Townhouse,Downtown,1115,3,3.5,36,2,1.4,24/7 Gated Security; Home Cinema; Swimming Pool; Wine Cellar,4,584000
+PROP-1039,Exclusive Greenfield Estate,Single Family,Greenfield,3365,5,4.5,4,1,18.2,24/7 Gated Security; Fitness Center; Home Cinema; Smart Home Automation,4,770000
+PROP-1040,Luxury Suburbs Manor,Condo,Suburbs,922,3,2.5,22,0,21.0,EV Fast Charger; Private Garden; Smart Home Automation; Solar Panels,4,266000
+PROP-1041,Spacious Tech Corridor Retreat,Townhouse,Tech Corridor,1305,2,2.5,4,1,8.0,24/7 Gated Security,1,622000
+PROP-1042,Spacious Downtown Penthouse,Condo,Downtown,1054,2,1.5,6,0,1.1,Fitness Center; Home Cinema; Swimming Pool; Wine Cellar,4,617000
+PROP-1043,Modern Downtown Residence,Single Family,Downtown,1796,3,2.5,2,2,0.5,Scenic Balcony; Solar Panels; Swimming Pool,3,966000
+PROP-1044,Contemporary Hillside View Residence,Townhouse,Hillside View,1483,2,2.5,10,1,8.8,24/7 Gated Security; Home Cinema; Private Garden; Wine Cellar,4,608000
+PROP-1045,Spacious Historic District Villa,Penthouse,Historic District,2199,4,5.0,21,3,8.1,Fitness Center; Private Garden; Scenic Balcony; Solar Panels; Wine Cellar,5,786000
+PROP-1046,Modern Downtown Estate,Townhouse,Downtown,1756,3,2.5,3,2,3.4,Private Garden; Scenic Balcony,2,810000
+PROP-1047,Urban Historic District Residence,Single Family,Historic District,2865,5,4.5,12,2,7.2,EV Fast Charger; Home Cinema; Private Garden; Scenic Balcony,4,923000
+PROP-1048,Serene Suburbs Residence,Townhouse,Suburbs,1654,4,3.5,3,2,14.1,Private Garden; Swimming Pool,2,575000
+PROP-1049,Exclusive Suburbs Residence,Single Family,Suburbs,1775,4,4.0,3,1,15.7,24/7 Gated Security; Home Cinema; Scenic Balcony; Wine Cellar,4,639000
+PROP-1050,Classic Greenfield Residence,Single Family,Greenfield,2719,4,3.5,16,3,24.4,EV Fast Charger; Home Cinema; Private Garden; Smart Home Automation; Solar Panels; Swimming Pool,6,579000
+PROP-1051,Luxury Suburbs Villa,Villa,Suburbs,2871,5,5.5,17,3,8.2,Private Garden; Smart Home Automation; Wine Cellar,3,865000
+PROP-1052,Classic Downtown Townhome,Penthouse,Downtown,2681,5,5.0,7,2,0.9,24/7 Gated Security; Home Cinema; Private Garden; Scenic Balcony; Swimming Pool,5,1447000
+PROP-1053,Serene Suburbs Residence,Townhouse,Suburbs,1100,3,3.0,0,2,13.2,24/7 Gated Security; Home Cinema; Smart Home Automation; Wine Cellar,4,440000
+PROP-1054,Serene Suburbs Estate,Single Family,Suburbs,2232,4,3.5,11,2,21.2,Scenic Balcony,1,616000
+PROP-1055,Charming Tech Corridor Villa,Single Family,Tech Corridor,2844,5,4.5,1,2,7.8,Home Cinema; Smart Home Automation; Swimming Pool,3,1281000
+PROP-1056,Charming Historic District Penthouse,Condo,Historic District,1061,2,1.5,2,1,4.3,EV Fast Charger; Wine Cellar,2,482000
+PROP-1057,Classic Waterfront Manor,Penthouse,Waterfront,2527,4,5.0,4,3,11.2,24/7 Gated Security; EV Fast Charger; Fitness Center; Scenic Balcony; Smart Home Automation; Solar Panels,6,1393000
+PROP-1058,Luxury Historic District Haven,Townhouse,Historic District,2116,4,3.5,8,1,7.0,Private Garden; Solar Panels; Wine Cellar,3,720000
+PROP-1059,Cozy Suburbs Loft,Condo,Suburbs,1082,3,2.5,3,1,10.5,24/7 Gated Security; EV Fast Charger; Fitness Center; Scenic Balcony,4,426000
+PROP-1060,Contemporary Tech Corridor Villa,Single Family,Tech Corridor,2611,4,4.5,5,2,7.5,Solar Panels; Swimming Pool,2,1130000
+PROP-1061,Contemporary Suburbs Oasis,Townhouse,Suburbs,1814,3,2.5,16,2,11.3,EV Fast Charger; Private Garden; Swimming Pool,3,513000
+PROP-1062,Cozy Downtown Penthouse,Condo,Downtown,1108,3,2.5,27,0,1.5,24/7 Gated Security; EV Fast Charger; Home Cinema,3,477000
+PROP-1063,Modern Suburbs Penthouse,Penthouse,Suburbs,2664,5,5.0,10,3,16.8,EV Fast Charger; Fitness Center; Home Cinema; Solar Panels; Wine Cellar,5,737000
+PROP-1064,Classic Waterfront Residence,Single Family,Waterfront,1214,2,2.5,35,1,12.6,Private Garden; Smart Home Automation; Wine Cellar,3,537000
+PROP-1065,Charming Hillside View Manor,Single Family,Hillside View,3197,5,4.5,11,2,5.1,Scenic Balcony; Solar Panels,2,1136000
+PROP-1066,Serene Suburbs Townhome,Single Family,Suburbs,2334,5,4.5,14,2,9.1,Private Garden; Scenic Balcony; Swimming Pool,3,679000
+PROP-1067,Modern Greenfield Villa,Single Family,Greenfield,1403,3,2.5,45,3,27.8,EV Fast Charger; Scenic Balcony; Solar Panels; Swimming Pool; Wine Cellar,5,268000
+PROP-1068,Serene Hillside View Oasis,Villa,Hillside View,3297,5,5.5,3,3,7.6,EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Solar Panels,5,1288000
+PROP-1069,Spacious Downtown Townhome,Single Family,Downtown,1327,3,3.0,1,1,0.7,EV Fast Charger; Scenic Balcony; Solar Panels,3,761000
+PROP-1070,Spacious Waterfront Haven,Penthouse,Waterfront,3435,5,5.0,7,2,4.9,Fitness Center; Home Cinema; Private Garden; Scenic Balcony; Swimming Pool,5,1903000
+PROP-1071,Serene Suburbs Retreat,Single Family,Suburbs,900,2,1.5,0,3,20.5,24/7 Gated Security; Scenic Balcony; Smart Home Automation,3,378000
+PROP-1072,Contemporary Historic District Haven,Condo,Historic District,1006,2,2.5,0,1,3.6,24/7 Gated Security; Home Cinema; Private Garden; Swimming Pool,4,522000
+PROP-1073,Urban Historic District Manor,Villa,Historic District,3308,5,5.0,5,3,7.3,Fitness Center; Private Garden; Solar Panels; Swimming Pool,4,1092000
+PROP-1074,Spacious Waterfront Retreat,Single Family,Waterfront,2121,4,3.5,2,2,9.1,24/7 Gated Security; Fitness Center; Solar Panels,3,1210000
+PROP-1075,Charming Downtown Manor,Single Family,Downtown,2767,5,4.5,45,3,2.5,Scenic Balcony; Wine Cellar,2,915000
+PROP-1076,Cozy Tech Corridor Haven,Townhouse,Tech Corridor,1100,3,2.5,2,2,8.4,Fitness Center; Smart Home Automation,2,615000
+PROP-1077,Luxury Suburbs Villa,Condo,Suburbs,1135,3,3.0,24,1,8.6,24/7 Gated Security; Home Cinema,2,415000
+PROP-1078,Modern Historic District Townhome,Single Family,Historic District,2159,3,3.0,1,3,6.4,24/7 Gated Security; EV Fast Charger; Fitness Center; Scenic Balcony; Smart Home Automation; Solar Panels,6,819000
+PROP-1079,Charming Historic District Manor,Condo,Historic District,1035,2,1.5,7,1,5.2,24/7 Gated Security; Scenic Balcony; Smart Home Automation,3,426000
+PROP-1080,Urban Suburbs Residence,Condo,Suburbs,922,3,2.5,16,1,20.8,24/7 Gated Security; Scenic Balcony; Swimming Pool; Wine Cellar,4,347000
+PROP-1081,Luxury Suburbs Penthouse,Single Family,Suburbs,3077,5,4.5,3,2,10.9,24/7 Gated Security; EV Fast Charger; Home Cinema; Smart Home Automation,4,912000
+PROP-1082,Urban Greenfield Oasis,Single Family,Greenfield,1733,4,4.0,16,3,15.8,24/7 Gated Security; EV Fast Charger; Home Cinema; Private Garden,4,427000
+PROP-1083,Modern Suburbs Townhome,Single Family,Suburbs,900,2,2.5,20,2,21.6,Private Garden; Scenic Balcony,2,288000
+PROP-1084,Classic Suburbs Oasis,Condo,Suburbs,809,1,1.5,12,1,19.3,24/7 Gated Security; Home Cinema,2,331000
+PROP-1085,Classic Suburbs Manor,Single Family,Suburbs,2328,5,4.5,12,2,15.8,Private Garden,1,654000
+PROP-1086,Cozy Historic District Penthouse,Villa,Historic District,3975,6,6.0,28,3,4.4,24/7 Gated Security; EV Fast Charger; Private Garden; Solar Panels; Wine Cellar,5,1072000
+PROP-1087,Exclusive Tech Corridor Estate,Villa,Tech Corridor,5134,6,6.0,8,4,4.2,24/7 Gated Security; Fitness Center; Private Garden; Smart Home Automation; Solar Panels; Swimming Pool,6,2047000
+PROP-1088,Cozy Suburbs Retreat,Villa,Suburbs,4068,6,6.0,12,3,11.4,EV Fast Charger; Fitness Center; Scenic Balcony; Solar Panels; Swimming Pool,5,1055000
+PROP-1089,Urban Waterfront Manor,Condo,Waterfront,1041,3,2.5,7,1,11.3,Smart Home Automation; Swimming Pool,2,664000
+PROP-1090,Spacious Historic District Estate,Condo,Historic District,838,1,1.0,3,0,3.7,Swimming Pool,1,332000
+PROP-1091,Cozy Historic District Townhome,Villa,Historic District,2796,5,5.0,14,3,2.8,Fitness Center; Private Garden; Scenic Balcony,3,943000
+PROP-1092,Cozy Historic District Villa,Single Family,Historic District,2483,4,4.0,5,1,2.5,EV Fast Charger; Smart Home Automation; Wine Cellar,3,930000
+PROP-1093,Modern Suburbs Manor,Condo,Suburbs,994,2,2.5,3,1,18.6,Fitness Center; Home Cinema; Private Garden,3,369000
+PROP-1094,Serene Downtown Oasis,Single Family,Downtown,3179,5,4.5,1,1,2.5,Swimming Pool,1,1466000
+PROP-1095,Modern Tech Corridor Oasis,Condo,Tech Corridor,1067,3,2.5,5,1,5.1,Smart Home Automation,1,579000
+PROP-1096,Serene Downtown Manor,Single Family,Downtown,2361,5,4.5,22,2,0.6,Private Garden; Wine Cellar,2,1020000
+PROP-1097,Cozy Waterfront Townhome,Condo,Waterfront,559,1,1.0,18,1,9.5,Fitness Center; Home Cinema; Solar Panels; Swimming Pool; Wine Cellar,5,487000
+PROP-1098,Exclusive Greenfield Penthouse,Condo,Greenfield,969,3,3.0,6,1,17.2,Scenic Balcony; Smart Home Automation; Wine Cellar,3,307000
+PROP-1099,Classic Waterfront Townhome,Single Family,Waterfront,1718,4,4.0,8,1,7.6,Scenic Balcony,1,935000
+PROP-1100,Urban Suburbs Penthouse,Single Family,Suburbs,1860,4,4.0,4,1,10.4,EV Fast Charger; Fitness Center; Home Cinema; Smart Home Automation; Swimming Pool; Wine Cellar,6,627000
+PROP-1101,Urban Tech Corridor Residence,Penthouse,Tech Corridor,1800,4,5.0,10,3,8.5,EV Fast Charger; Scenic Balcony; Swimming Pool; Wine Cellar,4,921000
+PROP-1102,Classic Suburbs Villa,Single Family,Suburbs,3187,5,4.5,9,2,14.7,Solar Panels,1,795000
+PROP-1103,Modern Tech Corridor Residence,Single Family,Tech Corridor,1963,4,4.0,2,2,7.3,EV Fast Charger; Home Cinema; Solar Panels; Swimming Pool; Wine Cellar,5,1034000
+PROP-1104,Luxury Downtown Loft,Townhouse,Downtown,2204,4,3.5,2,1,1.8,EV Fast Charger; Home Cinema; Private Garden; Swimming Pool,4,1155000
+PROP-1105,Modern Waterfront Penthouse,Condo,Waterfront,787,2,2.0,9,1,6.2,EV Fast Charger; Private Garden; Swimming Pool,3,595000
+PROP-1106,Charming Downtown Estate,Single Family,Downtown,1879,3,2.5,1,1,1.8,24/7 Gated Security; EV Fast Charger; Fitness Center; Smart Home Automation; Swimming Pool,5,999000
+PROP-1107,Contemporary Suburbs Estate,Single Family,Suburbs,2908,5,4.5,16,3,13.7,EV Fast Charger; Fitness Center; Private Garden,3,757000
+PROP-1108,Urban Waterfront Loft,Townhouse,Waterfront,1497,2,2.0,18,1,13.1,EV Fast Charger; Scenic Balcony; Smart Home Automation,3,651000
+PROP-1109,Spacious Suburbs Manor,Single Family,Suburbs,2619,4,3.5,3,1,16.9,Home Cinema; Wine Cellar,2,718000
+PROP-1110,Modern Suburbs Retreat,Townhouse,Suburbs,1567,4,3.5,7,2,18.0,Home Cinema; Smart Home Automation; Swimming Pool,3,538000
+PROP-1111,Classic Historic District Residence,Condo,Historic District,1012,2,2.5,10,1,4.8,EV Fast Charger; Home Cinema; Solar Panels,3,468000
+PROP-1112,Cozy Waterfront Villa,Condo,Waterfront,1121,2,2.5,6,1,7.7,24/7 Gated Security; Home Cinema; Private Garden,3,668000
+PROP-1113,Serene Suburbs Villa,Townhouse,Suburbs,1924,4,3.5,8,2,18.4,EV Fast Charger,1,561000
+PROP-1114,Spacious Greenfield Penthouse,Townhouse,Greenfield,1898,3,3.5,2,1,27.1,EV Fast Charger; Solar Panels; Swimming Pool,3,463000
+PROP-1115,Contemporary Greenfield Penthouse,Single Family,Greenfield,3103,5,4.5,5,2,22.8,EV Fast Charger,1,610000
+PROP-1116,Contemporary Hillside View Oasis,Single Family,Hillside View,2230,5,4.5,6,2,12.5,Solar Panels,1,930000
+PROP-1117,Exclusive Historic District Villa,Single Family,Historic District,2214,5,4.5,5,2,3.7,24/7 Gated Security; Fitness Center; Scenic Balcony,3,855000
+PROP-1118,Charming Greenfield Retreat,Condo,Greenfield,992,3,3.0,35,1,17.6,EV Fast Charger; Home Cinema; Smart Home Automation; Swimming Pool; Wine Cellar,5,305000
+PROP-1119,Spacious Greenfield Retreat,Townhouse,Greenfield,1704,3,2.5,24,1,30.8,EV Fast Charger; Fitness Center; Wine Cellar,3,400000
+PROP-1120,Spacious Hillside View Loft,Single Family,Hillside View,3180,5,4.5,1,2,10.3,24/7 Gated Security; Home Cinema; Private Garden; Smart Home Automation,4,1216000
+PROP-1121,Serene Waterfront Townhome,Condo,Waterfront,614,1,1.0,31,1,9.0,Fitness Center; Smart Home Automation; Solar Panels; Wine Cellar,4,438000
+PROP-1122,Urban Tech Corridor Retreat,Condo,Tech Corridor,1584,3,3.0,4,0,7.7,EV Fast Charger; Private Garden; Smart Home Automation,3,728000
+PROP-1123,Classic Tech Corridor Townhome,Penthouse,Tech Corridor,3226,5,5.0,5,2,7.3,Home Cinema; Private Garden; Smart Home Automation; Solar Panels; Swimming Pool,5,1292000
+PROP-1124,Contemporary Suburbs Loft,Villa,Suburbs,2748,5,6.0,2,2,15.0,EV Fast Charger; Private Garden; Scenic Balcony; Smart Home Automation; Wine Cellar,5,822000
+PROP-1125,Serene Suburbs Retreat,Single Family,Suburbs,2642,4,3.5,12,2,8.2,Smart Home Automation; Swimming Pool,2,718000
+PROP-1126,Classic Downtown Loft,Penthouse,Downtown,2291,4,4.0,6,2,0.6,EV Fast Charger; Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation; Swimming Pool,6,1232000
+PROP-1127,Modern Tech Corridor Oasis,Condo,Tech Corridor,950,2,1.5,6,0,7.7,Fitness Center; Solar Panels; Swimming Pool,3,503000
+PROP-1128,Classic Downtown Villa,Single Family,Downtown,1953,3,2.5,21,2,2.2,Smart Home Automation,1,720000
+PROP-1129,Spacious Downtown Retreat,Single Family,Downtown,2771,5,4.5,7,2,1.9,24/7 Gated Security; Home Cinema; Smart Home Automation,3,1278000
+PROP-1130,Serene Hillside View Penthouse,Villa,Hillside View,3550,6,6.0,16,2,7.0,24/7 Gated Security; EV Fast Charger; Fitness Center; Private Garden; Smart Home Automation; Solar Panels; Swimming Pool; Wine Cellar,8,1301000
+PROP-1131,Contemporary Suburbs Oasis,Townhouse,Suburbs,1669,3,3.5,21,2,20.1,Home Cinema,1,449000
+PROP-1132,Contemporary Suburbs Loft,Townhouse,Suburbs,2016,4,3.5,0,2,9.5,24/7 Gated Security; Scenic Balcony,2,584000
+PROP-1133,Modern Waterfront Villa,Condo,Waterfront,818,1,1.5,19,1,14.9,24/7 Gated Security; Fitness Center; Home Cinema; Private Garden; Wine Cellar,5,525000
+PROP-1134,Contemporary Downtown Manor,Single Family,Downtown,2887,5,4.5,6,1,1.3,EV Fast Charger,1,1307000
+PROP-1135,Serene Suburbs Townhome,Condo,Suburbs,1007,2,2.5,1,1,20.3,24/7 Gated Security; Home Cinema,2,338000
+PROP-1136,Modern Historic District Haven,Single Family,Historic District,2952,5,4.5,4,2,7.9,EV Fast Charger; Fitness Center; Scenic Balcony,3,1020000
+PROP-1137,Classic Tech Corridor Penthouse,Single Family,Tech Corridor,2018,4,3.5,17,2,4.9,24/7 Gated Security; Fitness Center; Private Garden,3,846000
+PROP-1138,Charming Hillside View Manor,Condo,Hillside View,858,2,2.0,1,1,10.2,Smart Home Automation,1,425000
+PROP-1139,Cozy Greenfield Haven,Townhouse,Greenfield,1644,4,3.5,8,1,27.6,Private Garden,1,386000
+PROP-1140,Cozy Downtown Loft,Single Family,Downtown,1763,3,3.0,6,2,0.7,EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Smart Home Automation; Wine Cellar,6,1025000
+PROP-1141,Spacious Historic District Estate,Single Family,Historic District,2363,4,4.5,9,2,7.8,Scenic Balcony; Smart Home Automation; Swimming Pool; Wine Cellar,4,860000
+PROP-1142,Spacious Waterfront Haven,Townhouse,Waterfront,1422,2,1.5,15,1,5.2,Swimming Pool,1,724000
+PROP-1143,Luxury Suburbs Estate,Townhouse,Suburbs,1522,3,3.0,3,2,16.9,Smart Home Automation; Solar Panels; Swimming Pool,3,488000
+PROP-1144,Cozy Historic District Manor,Condo,Historic District,1640,3,3.0,17,1,5.2,24/7 Gated Security; EV Fast Charger; Smart Home Automation; Wine Cellar,4,576000
+PROP-1145,Luxury Suburbs Haven,Single Family,Suburbs,2404,4,4.5,17,1,9.0,EV Fast Charger; Home Cinema; Smart Home Automation,3,646000
+PROP-1146,Contemporary Greenfield Manor,Townhouse,Greenfield,1582,4,3.5,11,2,31.1,EV Fast Charger; Fitness Center; Home Cinema,3,418000
+PROP-1147,Cozy Suburbs Penthouse,Single Family,Suburbs,2485,5,4.5,3,2,15.6,Wine Cellar,1,710000
+PROP-1148,Contemporary Tech Corridor Manor,Single Family,Tech Corridor,2355,4,4.0,2,3,6.6,EV Fast Charger; Scenic Balcony; Smart Home Automation,3,1052000
+PROP-1149,Serene Hillside View Residence,Townhouse,Hillside View,1100,3,2.5,14,1,10.6,EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony,4,485000
+PROP-1150,Modern Historic District Residence,Single Family,Historic District,1761,4,3.5,41,1,2.5,24/7 Gated Security; EV Fast Charger; Scenic Balcony; Wine Cellar,4,538000
+PROP-1151,Serene Greenfield Manor,Townhouse,Greenfield,1557,3,3.5,18,2,26.7,Fitness Center; Home Cinema; Wine Cellar,3,341000
+PROP-1152,Cozy Historic District Penthouse,Single Family,Historic District,1722,4,4.5,19,2,6.8,Swimming Pool,1,613000
+PROP-1153,Cozy Waterfront Retreat,Townhouse,Waterfront,1900,3,3.0,3,1,14.9,Scenic Balcony; Smart Home Automation; Swimming Pool,3,1006000
+PROP-1154,Contemporary Suburbs Residence,Condo,Suburbs,1057,2,2.0,29,1,8.5,EV Fast Charger; Private Garden,2,318000
+PROP-1155,Exclusive Hillside View Townhome,Single Family,Hillside View,1605,3,3.0,19,2,12.2,EV Fast Charger; Private Garden; Scenic Balcony; Wine Cellar,4,627000
+PROP-1156,Luxury Tech Corridor Estate,Condo,Tech Corridor,933,2,2.0,12,1,4.9,Smart Home Automation,1,440000
+PROP-1157,Cozy Suburbs Villa,Townhouse,Suburbs,1393,2,1.5,6,1,13.7,24/7 Gated Security; Fitness Center; Scenic Balcony; Solar Panels; Swimming Pool,5,531000
+PROP-1158,Classic Downtown Estate,Townhouse,Downtown,2050,4,3.5,16,2,2.0,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Scenic Balcony,6,1009000
+PROP-1159,Spacious Suburbs Townhome,Townhouse,Suburbs,1953,4,3.5,45,1,8.0,Fitness Center; Home Cinema; Swimming Pool; Wine Cellar,4,497000
+PROP-1160,Serene Downtown Retreat,Single Family,Downtown,1959,4,4.5,0,1,0.5,EV Fast Charger; Home Cinema; Scenic Balcony,3,1035000
+PROP-1161,Cozy Suburbs Oasis,Condo,Suburbs,1599,3,3.0,1,0,12.7,Fitness Center; Smart Home Automation,2,480000
+PROP-1162,Luxury Waterfront Loft,Single Family,Waterfront,3155,5,4.5,4,2,13.4,Swimming Pool; Wine Cellar,2,1580000
+PROP-1163,Modern Suburbs Residence,Single Family,Suburbs,2566,5,4.5,0,3,9.5,Smart Home Automation,1,861000
+PROP-1164,Exclusive Downtown Penthouse,Condo,Downtown,711,1,1.0,3,1,2.2,Private Garden; Scenic Balcony; Solar Panels,3,439000
+PROP-1165,Serene Historic District Haven,Townhouse,Historic District,1899,4,3.5,0,2,5.1,Swimming Pool,1,760000
+PROP-1166,Serene Suburbs Retreat,Single Family,Suburbs,1937,3,2.5,0,1,13.4,Scenic Balcony; Wine Cellar,2,589000
+PROP-1167,Classic Downtown Manor,Single Family,Downtown,2457,5,4.5,8,1,2.2,EV Fast Charger; Wine Cellar,2,1179000
+PROP-1168,Serene Suburbs Retreat,Single Family,Suburbs,1265,2,2.0,45,2,20.6,Fitness Center; Home Cinema; Scenic Balcony,3,311000
+PROP-1169,Exclusive Historic District Loft,Single Family,Historic District,3429,5,4.5,27,1,8.1,Fitness Center; Home Cinema; Smart Home Automation; Wine Cellar,4,868000
+PROP-1170,Modern Hillside View Loft,Single Family,Hillside View,964,2,1.5,37,3,13.5,EV Fast Charger; Fitness Center; Private Garden; Solar Panels,4,348000
+PROP-1171,Cozy Downtown Townhome,Single Family,Downtown,2498,4,4.5,6,1,1.5,EV Fast Charger; Fitness Center; Private Garden; Solar Panels,4,1243000
+PROP-1172,Contemporary Suburbs Oasis,Penthouse,Suburbs,3242,5,5.0,2,2,17.6,24/7 Gated Security; Fitness Center; Home Cinema; Private Garden; Wine Cellar,5,857000
+PROP-1173,Exclusive Suburbs Manor,Single Family,Suburbs,900,2,2.5,5,2,17.5,24/7 Gated Security; Swimming Pool,2,335000
+PROP-1174,Contemporary Suburbs Manor,Condo,Suburbs,540,2,2.5,3,1,10.2,Smart Home Automation,1,295000
+PROP-1175,Cozy Tech Corridor Loft,Condo,Tech Corridor,833,1,1.0,1,1,7.0,EV Fast Charger; Home Cinema; Swimming Pool,3,440000
+PROP-1176,Contemporary Suburbs Residence,Condo,Suburbs,998,2,2.0,25,1,8.1,EV Fast Charger; Swimming Pool,2,322000
+PROP-1177,Urban Greenfield Penthouse,Single Family,Greenfield,1901,3,3.5,9,1,27.9,EV Fast Charger; Private Garden; Swimming Pool,3,428000
+PROP-1178,Serene Waterfront Residence,Single Family,Waterfront,1769,3,3.0,9,2,5.3,Scenic Balcony; Smart Home Automation,2,967000
+PROP-1179,Contemporary Tech Corridor Penthouse,Single Family,Tech Corridor,2078,3,3.0,6,1,8.0,24/7 Gated Security; Fitness Center; Wine Cellar,3,879000
+PROP-1180,Cozy Tech Corridor Estate,Single Family,Tech Corridor,1548,2,1.5,2,2,7.5,24/7 Gated Security; Solar Panels; Swimming Pool; Wine Cellar,4,742000
+PROP-1181,Modern Hillside View Penthouse,Single Family,Hillside View,2613,5,4.5,0,1,13.4,Fitness Center; Scenic Balcony; Solar Panels,3,1017000
+PROP-1182,Classic Suburbs Haven,Townhouse,Suburbs,2256,4,3.5,0,1,19.5,Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation,4,616000
+PROP-1183,Charming Suburbs Estate,Single Family,Suburbs,2825,5,4.5,2,1,14.6,EV Fast Charger; Private Garden,2,759000
+PROP-1184,Classic Downtown Townhome,Single Family,Downtown,2248,4,3.5,21,2,2.8,24/7 Gated Security; Home Cinema; Swimming Pool; Wine Cellar,4,1038000
+PROP-1185,Urban Downtown Haven,Single Family,Downtown,1933,3,2.5,0,3,2.6,Solar Panels; Wine Cellar,2,993000
+PROP-1186,Urban Suburbs Loft,Townhouse,Suburbs,1100,3,3.0,2,1,8.4,EV Fast Charger; Smart Home Automation,2,417000
+PROP-1187,Cozy Waterfront Oasis,Single Family,Waterfront,1511,2,2.5,2,3,13.6,24/7 Gated Security; EV Fast Charger; Private Garden; Wine Cellar,4,947000
+PROP-1188,Spacious Waterfront Loft,Single Family,Waterfront,2589,5,4.5,11,2,5.4,Home Cinema; Scenic Balcony,2,1413000
+PROP-1189,Exclusive Historic District Manor,Single Family,Historic District,2887,5,4.5,1,1,7.0,24/7 Gated Security; EV Fast Charger,2,996000
+PROP-1190,Spacious Tech Corridor Retreat,Condo,Tech Corridor,610,1,1.5,4,1,6.3,Fitness Center,1,345000
+PROP-1191,Luxury Suburbs Villa,Condo,Suburbs,1024,2,1.5,5,0,14.7,EV Fast Charger; Fitness Center; Private Garden; Solar Panels,4,357000
+PROP-1192,Charming Downtown Haven,Condo,Downtown,554,1,1.0,18,1,0.4,24/7 Gated Security; Fitness Center,2,359000
+PROP-1193,Modern Suburbs Oasis,Single Family,Suburbs,1668,3,2.5,0,2,14.8,24/7 Gated Security; Home Cinema; Solar Panels; Swimming Pool,4,567000
+PROP-1194,Modern Tech Corridor Loft,Single Family,Tech Corridor,1864,4,4.0,8,2,3.1,EV Fast Charger; Fitness Center; Home Cinema; Swimming Pool,4,908000
+PROP-1195,Modern Historic District Loft,Condo,Historic District,882,2,2.0,1,0,6.2,Fitness Center; Home Cinema; Scenic Balcony; Wine Cellar,4,439000
+PROP-1196,Contemporary Suburbs Oasis,Single Family,Suburbs,2743,5,4.5,1,1,16.9,EV Fast Charger; Fitness Center; Wine Cellar,3,787000
+PROP-1197,Serene Tech Corridor Haven,Single Family,Tech Corridor,3196,5,4.5,18,2,6.5,Private Garden; Smart Home Automation; Solar Panels,3,1176000
+PROP-1198,Contemporary Tech Corridor Penthouse,Single Family,Tech Corridor,3363,5,4.5,7,2,6.7,24/7 Gated Security; Fitness Center; Home Cinema,3,1331000
+PROP-1199,Luxury Waterfront Villa,Townhouse,Waterfront,2170,4,3.5,3,1,5.8,EV Fast Charger; Scenic Balcony; Swimming Pool,3,1259000
+PROP-1200,Classic Greenfield Loft,Single Family,Greenfield,2023,3,3.0,2,2,28.4,Fitness Center,1,442000
+PROP-1201,Exclusive Tech Corridor Residence,Condo,Tech Corridor,943,3,3.0,3,1,9.0,24/7 Gated Security; Home Cinema; Solar Panels; Swimming Pool,4,675000
+PROP-1202,Spacious Historic District Manor,Single Family,Historic District,2220,5,4.5,0,2,2.7,EV Fast Charger; Scenic Balcony; Solar Panels; Wine Cellar,4,936000
+PROP-1203,Luxury Tech Corridor Residence,Villa,Tech Corridor,3619,6,6.0,16,3,5.3,Private Garden; Swimming Pool; Wine Cellar,3,1347000
+PROP-1204,Modern Greenfield Residence,Condo,Greenfield,643,2,2.0,10,1,22.5,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Smart Home Automation; Swimming Pool,6,236000
+PROP-1205,Serene Hillside View Villa,Single Family,Hillside View,2142,4,4.5,6,3,7.0,24/7 Gated Security; Fitness Center; Smart Home Automation,3,957000
+PROP-1206,Exclusive Historic District Retreat,Penthouse,Historic District,3200,5,5.0,11,3,7.3,EV Fast Charger; Home Cinema; Solar Panels; Wine Cellar,4,1053000
+PROP-1207,Spacious Historic District Penthouse,Townhouse,Historic District,1770,4,3.5,3,1,8.8,Wine Cellar,1,639000
+PROP-1208,Urban Suburbs Townhome,Single Family,Suburbs,2378,4,3.5,24,1,14.2,Smart Home Automation; Wine Cellar,2,547000
+PROP-1209,Cozy Tech Corridor Villa,Single Family,Tech Corridor,971,2,2.5,5,1,8.8,24/7 Gated Security; EV Fast Charger; Swimming Pool,3,539000
+PROP-1210,Spacious Suburbs Townhome,Villa,Suburbs,4365,6,6.0,1,3,21.6,24/7 Gated Security; EV Fast Charger; Fitness Center; Scenic Balcony; Smart Home Automation; Swimming Pool; Wine Cellar,7,1046000
+PROP-1211,Classic Tech Corridor Residence,Condo,Tech Corridor,561,1,1.0,8,0,4.7,Private Garden,1,297000
+PROP-1212,Urban Suburbs Manor,Condo,Suburbs,885,2,2.5,3,1,13.0,24/7 Gated Security; EV Fast Charger; Home Cinema,3,395000
+PROP-1213,Contemporary Waterfront Haven,Condo,Waterfront,1301,2,1.5,18,1,11.8,Private Garden; Smart Home Automation,2,581000
+PROP-1214,Modern Tech Corridor Retreat,Condo,Tech Corridor,1223,3,3.0,3,0,2.9,Fitness Center; Home Cinema,2,648000
+PROP-1215,Spacious Tech Corridor Manor,Single Family,Tech Corridor,2600,4,3.5,7,1,8.6,EV Fast Charger; Fitness Center; Private Garden,3,1022000
+PROP-1216,Exclusive Suburbs Penthouse,Penthouse,Suburbs,2839,5,5.0,7,2,17.6,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Swimming Pool,5,716000
+PROP-1217,Exclusive Suburbs Loft,Single Family,Suburbs,2237,5,4.5,5,2,15.5,24/7 Gated Security; Solar Panels,2,680000
+PROP-1218,Luxury Downtown Residence,Single Family,Downtown,1797,3,2.5,2,2,1.1,EV Fast Charger,1,899000
+PROP-1219,Modern Waterfront Villa,Single Family,Waterfront,2143,4,3.5,23,2,12.5,Fitness Center; Home Cinema; Solar Panels; Swimming Pool,4,1023000
+PROP-1220,Classic Greenfield Manor,Townhouse,Greenfield,1709,4,3.5,33,2,29.1,Fitness Center; Scenic Balcony; Solar Panels,3,323000
+PROP-1221,Spacious Suburbs Villa,Townhouse,Suburbs,1901,4,3.5,0,2,21.7,Home Cinema; Solar Panels,2,617000
+PROP-1222,Charming Waterfront Residence,Penthouse,Waterfront,3302,5,5.0,16,3,13.7,Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation; Solar Panels; Wine Cellar,6,1538000
+PROP-1223,Charming Greenfield Penthouse,Condo,Greenfield,528,2,2.5,17,1,28.6,Fitness Center; Smart Home Automation,2,187000
+PROP-1224,Cozy Suburbs Townhome,Condo,Suburbs,1272,3,3.0,0,1,12.5,Fitness Center; Home Cinema; Solar Panels,3,475000
+PROP-1225,Luxury Downtown Manor,Townhouse,Downtown,1266,2,2.5,7,1,1.1,24/7 Gated Security; Scenic Balcony; Swimming Pool; Wine Cellar,4,679000
+PROP-1226,Urban Downtown Penthouse,Condo,Downtown,626,2,2.5,13,1,2.3,Private Garden; Scenic Balcony; Swimming Pool,3,457000
+PROP-1227,Luxury Suburbs Estate,Villa,Suburbs,2400,4,4.5,0,3,12.8,24/7 Gated Security; EV Fast Charger; Scenic Balcony; Smart Home Automation; Swimming Pool,5,749000
+PROP-1228,Classic Suburbs Residence,Condo,Suburbs,602,1,1.5,11,1,18.7,Solar Panels; Wine Cellar,2,214000
+PROP-1229,Urban Tech Corridor Loft,Penthouse,Tech Corridor,3097,5,5.0,2,2,2.5,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Solar Panels; Swimming Pool; Wine Cellar,8,1566000
+PROP-1230,Classic Downtown Townhome,Single Family,Downtown,2617,4,4.5,2,2,1.8,Fitness Center; Home Cinema; Private Garden; Scenic Balcony; Wine Cellar,5,1360000
+PROP-1231,Urban Tech Corridor Retreat,Single Family,Tech Corridor,1943,4,3.5,4,2,7.7,EV Fast Charger; Home Cinema,2,873000
+PROP-1232,Charming Waterfront Townhome,Single Family,Waterfront,1148,3,3.0,3,2,8.5,EV Fast Charger; Private Garden,2,798000
+PROP-1233,Contemporary Suburbs Villa,Single Family,Suburbs,2126,3,3.0,2,2,12.1,EV Fast Charger; Smart Home Automation; Swimming Pool,3,634000
+PROP-1234,Luxury Downtown Villa,Single Family,Downtown,1888,4,4.0,9,2,0.4,24/7 Gated Security; Scenic Balcony,2,978000
+PROP-1235,Serene Downtown Penthouse,Condo,Downtown,1067,2,2.0,25,1,1.0,Fitness Center; Smart Home Automation,2,500000
+PROP-1236,Serene Suburbs Residence,Condo,Suburbs,1074,3,2.5,27,1,12.9,Fitness Center; Solar Panels; Swimming Pool; Wine Cellar,4,338000
+PROP-1237,Luxury Historic District Haven,Single Family,Historic District,2610,5,4.5,13,3,7.8,Private Garden; Scenic Balcony; Smart Home Automation; Solar Panels; Swimming Pool,5,878000
+PROP-1238,Classic Downtown Townhome,Single Family,Downtown,1887,3,3.0,3,1,3.1,EV Fast Charger; Home Cinema; Solar Panels,3,949000
+PROP-1239,Cozy Suburbs Retreat,Single Family,Suburbs,3557,5,4.5,11,2,15.7,24/7 Gated Security; EV Fast Charger; Smart Home Automation,3,776000
+PROP-1240,Cozy Waterfront Retreat,Single Family,Waterfront,1893,3,2.5,45,2,5.5,Fitness Center; Scenic Balcony,2,736000
+PROP-1241,Cozy Historic District Townhome,Townhouse,Historic District,1408,3,2.5,14,2,8.9,EV Fast Charger; Smart Home Automation; Swimming Pool,3,573000
+PROP-1242,Charming Suburbs Haven,Single Family,Suburbs,2512,4,3.5,1,1,20.5,Home Cinema; Scenic Balcony; Solar Panels,3,715000
+PROP-1243,Serene Waterfront Estate,Townhouse,Waterfront,1475,2,2.0,0,1,9.7,24/7 Gated Security; EV Fast Charger,2,782000
+PROP-1244,Spacious Suburbs Penthouse,Single Family,Suburbs,2328,5,4.5,3,2,14.4,EV Fast Charger; Swimming Pool; Wine Cellar,3,673000
+PROP-1245,Spacious Suburbs Oasis,Single Family,Suburbs,1375,2,2.0,4,2,16.1,24/7 Gated Security; Home Cinema; Scenic Balcony,3,402000
+PROP-1246,Charming Hillside View Loft,Single Family,Hillside View,2921,5,4.5,7,1,12.3,EV Fast Charger; Smart Home Automation,2,1009000
+PROP-1247,Urban Suburbs Residence,Single Family,Suburbs,2922,5,4.5,3,3,13.6,24/7 Gated Security; Private Garden; Scenic Balcony; Smart Home Automation; Wine Cellar,5,819000
+PROP-1248,Exclusive Waterfront Villa,Condo,Waterfront,968,2,2.0,11,1,5.0,24/7 Gated Security; Fitness Center; Home Cinema; Smart Home Automation; Wine Cellar,5,730000
+PROP-1249,Luxury Hillside View Retreat,Single Family,Hillside View,1909,4,4.0,0,1,5.3,Smart Home Automation; Solar Panels,2,847000
+PROP-1250,Modern Greenfield Penthouse,Single Family,Greenfield,1824,3,2.5,3,2,23.7,EV Fast Charger; Fitness Center; Private Garden; Smart Home Automation; Wine Cellar,5,408000
+PROP-1251,Luxury Tech Corridor Penthouse,Single Family,Tech Corridor,1897,4,4.0,30,2,5.7,Home Cinema; Private Garden; Wine Cellar,3,763000
+PROP-1252,Urban Suburbs Manor,Single Family,Suburbs,2245,4,4.0,24,3,19.3,24/7 Gated Security,1,515000
+PROP-1253,Modern Tech Corridor Residence,Single Family,Tech Corridor,1832,3,3.5,2,2,7.0,24/7 Gated Security; EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Solar Panels,6,944000
+PROP-1254,Serene Suburbs Estate,Single Family,Suburbs,2215,5,4.5,1,2,20.1,Fitness Center; Private Garden; Swimming Pool; Wine Cellar,4,688000
+PROP-1255,Luxury Greenfield Retreat,Single Family,Greenfield,2186,4,4.0,4,2,31.2,EV Fast Charger; Smart Home Automation; Solar Panels; Swimming Pool,4,522000
+PROP-1256,Modern Waterfront Loft,Single Family,Waterfront,2480,5,4.5,1,1,14.6,EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Smart Home Automation; Wine Cellar,6,1443000
+PROP-1257,Classic Historic District Retreat,Single Family,Historic District,2479,5,4.5,25,3,4.3,24/7 Gated Security; Smart Home Automation; Solar Panels; Swimming Pool,4,802000
+PROP-1258,Exclusive Waterfront Residence,Townhouse,Waterfront,1664,3,3.5,9,1,6.1,Scenic Balcony; Wine Cellar,2,944000
+PROP-1259,Classic Downtown Loft,Townhouse,Downtown,1626,4,3.5,4,2,1.7,EV Fast Charger; Solar Panels,2,853000
+PROP-1260,Cozy Downtown Townhome,Single Family,Downtown,1809,3,2.5,45,2,2.9,24/7 Gated Security; Smart Home Automation; Wine Cellar,3,697000
+PROP-1261,Modern Downtown Estate,Townhouse,Downtown,1189,3,3.0,1,1,3.1,EV Fast Charger; Fitness Center; Swimming Pool,3,762000
+PROP-1262,Charming Suburbs Loft,Condo,Suburbs,608,1,1.5,21,1,18.3,EV Fast Charger; Fitness Center; Smart Home Automation; Solar Panels; Wine Cellar,5,254000
+PROP-1263,Exclusive Greenfield Oasis,Condo,Greenfield,805,2,2.0,17,0,17.3,24/7 Gated Security; Scenic Balcony; Wine Cellar,3,192000
+PROP-1264,Classic Historic District Manor,Townhouse,Historic District,1206,2,2.0,44,1,7.7,EV Fast Charger; Fitness Center; Private Garden; Smart Home Automation,4,375000
+PROP-1265,Classic Hillside View Penthouse,Single Family,Hillside View,2191,3,2.5,7,2,13.3,Fitness Center; Home Cinema; Private Garden; Solar Panels,4,808000
+PROP-1266,Luxury Suburbs Oasis,Townhouse,Suburbs,1641,4,3.5,16,1,14.7,EV Fast Charger; Fitness Center; Scenic Balcony; Wine Cellar,4,470000
+PROP-1267,Luxury Downtown Villa,Condo,Downtown,607,2,2.0,26,1,3.4,EV Fast Charger; Home Cinema; Smart Home Automation,3,351000
+PROP-1268,Serene Suburbs Residence,Single Family,Suburbs,1832,3,3.0,3,2,19.8,Fitness Center; Swimming Pool,2,559000
+PROP-1269,Urban Tech Corridor Haven,Condo,Tech Corridor,1489,3,3.0,3,1,8.3,Fitness Center,1,665000
+PROP-1270,Classic Suburbs Villa,Single Family,Suburbs,2755,5,4.5,0,2,8.5,Scenic Balcony,1,826000
+PROP-1271,Classic Suburbs Manor,Penthouse,Suburbs,3196,5,5.0,37,2,18.3,24/7 Gated Security; Fitness Center; Home Cinema; Solar Panels,4,660000
+PROP-1272,Modern Downtown Oasis,Condo,Downtown,613,1,1.5,18,1,1.4,Home Cinema; Private Garden; Swimming Pool,3,391000
+PROP-1273,Classic Tech Corridor Estate,Condo,Tech Corridor,1261,3,3.0,1,0,8.8,EV Fast Charger; Private Garden; Wine Cellar,3,589000
+PROP-1274,Charming Suburbs Manor,Villa,Suburbs,4497,6,6.0,2,3,9.7,Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation; Swimming Pool; Wine Cellar,6,1252000
+PROP-1275,Serene Downtown Oasis,Single Family,Downtown,2930,5,4.5,0,2,3.4,Private Garden; Swimming Pool; Wine Cellar,3,1481000
+PROP-1276,Cozy Suburbs Residence,Single Family,Suburbs,1846,4,4.0,10,2,18.5,Fitness Center; Smart Home Automation; Solar Panels; Swimming Pool,4,590000
+PROP-1277,Exclusive Waterfront Loft,Townhouse,Waterfront,1811,3,3.0,31,1,6.5,24/7 Gated Security; Private Garden; Smart Home Automation; Solar Panels,4,851000
+PROP-1278,Exclusive Suburbs Oasis,Single Family,Suburbs,1625,3,3.0,34,2,11.4,Scenic Balcony; Solar Panels; Wine Cellar,3,366000
+PROP-1279,Serene Downtown Villa,Single Family,Downtown,2078,4,3.5,4,2,2.9,24/7 Gated Security; Home Cinema; Scenic Balcony,3,1046000
+PROP-1280,Spacious Downtown Oasis,Single Family,Downtown,2108,3,3.0,22,2,2.6,EV Fast Charger; Home Cinema; Private Garden; Solar Panels,4,894000
+PROP-1281,Charming Hillside View Residence,Condo,Hillside View,1115,2,2.0,3,1,9.9,EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Solar Panels; Wine Cellar,6,605000
+PROP-1282,Cozy Tech Corridor Townhome,Penthouse,Tech Corridor,2529,4,5.0,40,2,5.7,EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Solar Panels; Swimming Pool,6,888000
+PROP-1283,Charming Downtown Residence,Single Family,Downtown,1966,4,4.5,16,2,2.3,EV Fast Charger; Home Cinema; Private Garden; Wine Cellar,4,949000
+PROP-1284,Cozy Suburbs Loft,Penthouse,Suburbs,2881,4,4.0,7,2,8.1,EV Fast Charger; Fitness Center; Home Cinema; Private Garden,4,795000
+PROP-1285,Urban Suburbs Penthouse,Single Family,Suburbs,2655,4,4.5,19,2,10.9,Scenic Balcony; Smart Home Automation,2,631000
+PROP-1286,Contemporary Tech Corridor Oasis,Single Family,Tech Corridor,3118,5,4.5,5,1,7.6,EV Fast Charger; Wine Cellar,2,1254000
+PROP-1287,Luxury Historic District Townhome,Single Family,Historic District,2126,4,4.0,16,1,3.8,24/7 Gated Security; Scenic Balcony,2,701000
+PROP-1288,Cozy Hillside View Townhome,Townhouse,Hillside View,1613,3,3.5,7,2,9.5,Home Cinema,1,669000
+PROP-1289,Cozy Tech Corridor Loft,Single Family,Tech Corridor,2041,4,4.0,10,3,5.0,Private Garden; Scenic Balcony,2,888000
+PROP-1290,Urban Waterfront Estate,Townhouse,Waterfront,2154,4,3.5,5,2,12.7,EV Fast Charger; Home Cinema; Smart Home Automation,3,1129000
+PROP-1291,Urban Tech Corridor Estate,Single Family,Tech Corridor,2299,5,4.5,0,2,6.3,Home Cinema,1,1052000
+PROP-1292,Contemporary Hillside View Haven,Condo,Hillside View,1415,3,3.0,11,1,4.3,Home Cinema; Swimming Pool; Wine Cellar,3,709000
+PROP-1293,Charming Historic District Penthouse,Condo,Historic District,1222,2,2.0,16,1,8.9,Fitness Center; Private Garden; Solar Panels; Swimming Pool,4,428000
+PROP-1294,Luxury Suburbs Haven,Single Family,Suburbs,2504,4,3.5,4,1,14.1,EV Fast Charger; Home Cinema; Wine Cellar,3,684000
+PROP-1295,Exclusive Waterfront Retreat,Condo,Waterfront,929,2,2.5,15,1,7.3,Smart Home Automation,1,553000
+PROP-1296,Exclusive Downtown Estate,Townhouse,Downtown,1786,4,3.5,6,1,3.0,Fitness Center; Home Cinema; Solar Panels,3,905000
+PROP-1297,Serene Suburbs Manor,Condo,Suburbs,1249,3,2.5,5,0,12.7,24/7 Gated Security; Smart Home Automation,2,363000
+PROP-1298,Luxury Suburbs Manor,Condo,Suburbs,818,1,1.5,33,0,11.6,Fitness Center; Private Garden; Smart Home Automation,3,262000
+PROP-1299,Urban Suburbs Villa,Single Family,Suburbs,2768,5,4.5,6,2,21.1,Fitness Center; Solar Panels; Swimming Pool,3,716000
+PROP-1300,Urban Tech Corridor Retreat,Single Family,Tech Corridor,2700,5,4.5,28,3,7.6,Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation; Swimming Pool; Wine Cellar,6,1057000
+PROP-1301,Luxury Downtown Loft,Single Family,Downtown,1944,3,3.5,7,3,0.3,EV Fast Charger; Home Cinema; Scenic Balcony; Solar Panels; Swimming Pool,5,1049000
+PROP-1302,Cozy Tech Corridor Loft,Townhouse,Tech Corridor,1915,4,3.5,22,1,4.2,Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation,4,766000
+PROP-1303,Spacious Waterfront Manor,Townhouse,Waterfront,1702,3,3.0,1,2,9.9,24/7 Gated Security; Home Cinema; Scenic Balcony,3,1015000
+PROP-1304,Classic Waterfront Townhome,Villa,Waterfront,2566,4,5.0,13,2,14.6,Fitness Center; Private Garden; Scenic Balcony,3,1176000
+PROP-1305,Urban Historic District Oasis,Villa,Historic District,4291,6,6.0,3,3,7.3,24/7 Gated Security; Scenic Balcony; Smart Home Automation; Swimming Pool,4,1406000
+PROP-1306,Contemporary Suburbs Townhome,Condo,Suburbs,672,2,1.5,42,1,16.5,Scenic Balcony; Solar Panels,2,239000
+PROP-1307,Spacious Suburbs Villa,Single Family,Suburbs,1755,4,3.5,3,1,19.9,Smart Home Automation,1,496000
+PROP-1308,Luxury Tech Corridor Retreat,Condo,Tech Corridor,1204,2,1.5,15,1,2.9,24/7 Gated Security; Fitness Center; Swimming Pool; Wine Cellar,4,667000
+PROP-1309,Spacious Suburbs Villa,Townhouse,Suburbs,1763,4,3.5,7,1,10.3,Fitness Center,1,602000
+PROP-1310,Exclusive Suburbs Manor,Condo,Suburbs,837,2,2.5,9,1,8.9,24/7 Gated Security; Fitness Center; Swimming Pool,3,415000
+PROP-1311,Contemporary Tech Corridor Penthouse,Townhouse,Tech Corridor,2069,4,3.5,18,1,3.8,Private Garden; Scenic Balcony; Smart Home Automation; Swimming Pool,4,870000
+PROP-1312,Modern Hillside View Retreat,Villa,Hillside View,3303,5,5.5,0,3,5.4,EV Fast Charger; Fitness Center; Scenic Balcony; Solar Panels; Wine Cellar,5,1338000
+PROP-1313,Contemporary Waterfront Residence,Single Family,Waterfront,1664,4,4.5,9,3,12.3,EV Fast Charger; Scenic Balcony; Smart Home Automation,3,1007000
+PROP-1314,Contemporary Suburbs Estate,Single Family,Suburbs,3205,5,4.5,3,2,13.5,EV Fast Charger; Private Garden; Wine Cellar,3,957000
+PROP-1315,Classic Suburbs Villa,Villa,Suburbs,3437,5,5.0,1,3,14.2,24/7 Gated Security; Private Garden; Scenic Balcony; Wine Cellar,4,1012000
+PROP-1316,Spacious Historic District Villa,Penthouse,Historic District,2536,5,5.0,12,3,7.7,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Scenic Balcony; Smart Home Automation; Solar Panels,8,917000
+PROP-1317,Serene Greenfield Retreat,Single Family,Greenfield,2620,5,4.5,14,1,28.5,24/7 Gated Security; EV Fast Charger; Private Garden,3,495000
+PROP-1318,Charming Historic District Townhome,Single Family,Historic District,2658,4,4.5,45,2,3.4,Wine Cellar,1,670000
+PROP-1319,Modern Greenfield Manor,Single Family,Greenfield,1899,3,3.5,19,2,31.5,EV Fast Charger; Home Cinema; Private Garden; Swimming Pool,4,383000
+PROP-1320,Charming Historic District Retreat,Townhouse,Historic District,1392,2,2.5,1,1,7.2,EV Fast Charger; Smart Home Automation; Solar Panels,3,573000
+PROP-1321,Serene Tech Corridor Penthouse,Townhouse,Tech Corridor,1766,3,2.5,20,1,3.9,EV Fast Charger; Fitness Center; Home Cinema; Smart Home Automation,4,697000
+PROP-1322,Cozy Waterfront Manor,Penthouse,Waterfront,2946,5,5.0,30,2,5.2,24/7 Gated Security; EV Fast Charger; Home Cinema; Smart Home Automation; Swimming Pool,5,1323000
+PROP-1323,Classic Downtown Villa,Single Family,Downtown,2352,4,3.5,20,2,3.1,Scenic Balcony; Solar Panels; Swimming Pool,3,1017000
+PROP-1324,Cozy Downtown Townhome,Single Family,Downtown,1306,3,3.0,3,1,0.8,Home Cinema; Wine Cellar,2,776000
+PROP-1325,Classic Suburbs Haven,Single Family,Suburbs,1835,4,4.5,11,2,12.9,Home Cinema; Solar Panels; Wine Cellar,3,531000
+PROP-1326,Classic Waterfront Oasis,Single Family,Waterfront,2143,3,3.5,1,2,11.4,EV Fast Charger; Fitness Center; Scenic Balcony; Solar Panels; Wine Cellar,5,1263000
+PROP-1327,Urban Historic District Residence,Condo,Historic District,1248,3,3.0,23,0,4.0,EV Fast Charger; Fitness Center,2,411000
+PROP-1328,Spacious Downtown Loft,Single Family,Downtown,1919,3,3.5,8,2,1.3,24/7 Gated Security; Fitness Center; Home Cinema; Swimming Pool,4,1027000
+PROP-1329,Charming Waterfront Villa,Condo,Waterfront,1207,3,2.5,18,1,11.3,EV Fast Charger; Scenic Balcony,2,608000
+PROP-1330,Urban Tech Corridor Townhome,Single Family,Tech Corridor,2425,4,4.5,1,2,5.4,Private Garden; Scenic Balcony; Swimming Pool,3,1120000
+PROP-1331,Cozy Suburbs Manor,Single Family,Suburbs,2808,5,4.5,45,2,9.6,Fitness Center; Smart Home Automation,2,600000
+PROP-1332,Contemporary Historic District Retreat,Condo,Historic District,816,2,2.0,3,1,8.1,EV Fast Charger; Private Garden,2,379000
+PROP-1333,Classic Tech Corridor Oasis,Condo,Tech Corridor,1078,3,3.0,0,1,8.8,24/7 Gated Security; Home Cinema; Scenic Balcony; Smart Home Automation; Solar Panels; Swimming Pool,6,690000
+PROP-1334,Contemporary Tech Corridor Loft,Townhouse,Tech Corridor,1369,2,1.5,24,1,3.2,EV Fast Charger; Fitness Center; Smart Home Automation; Solar Panels,4,581000
+PROP-1335,Cozy Suburbs Estate,Single Family,Suburbs,2402,5,4.5,0,1,14.6,Home Cinema; Scenic Balcony; Wine Cellar,3,801000
+PROP-1336,Urban Waterfront Retreat,Condo,Waterfront,1149,2,1.5,16,0,4.5,Home Cinema; Solar Panels; Wine Cellar,3,624000
+PROP-1337,Urban Downtown Estate,Single Family,Downtown,2722,4,4.5,9,2,3.0,24/7 Gated Security; Swimming Pool; Wine Cellar,3,1319000
+PROP-1338,Serene Suburbs Oasis,Single Family,Suburbs,1893,3,3.0,8,3,8.9,EV Fast Charger; Scenic Balcony; Wine Cellar,3,544000
+PROP-1339,Modern Waterfront Haven,Single Family,Waterfront,2391,4,3.5,28,1,11.4,Private Garden,1,980000
+PROP-1340,Exclusive Suburbs Penthouse,Condo,Suburbs,1113,2,2.0,17,1,16.4,EV Fast Charger; Wine Cellar,2,401000
+PROP-1341,Urban Downtown Penthouse,Single Family,Downtown,2124,4,3.5,10,2,2.5,24/7 Gated Security; Home Cinema; Scenic Balcony; Swimming Pool,4,1089000
+PROP-1342,Modern Suburbs Residence,Condo,Suburbs,968,3,3.0,42,1,11.7,Private Garden; Smart Home Automation; Swimming Pool; Wine Cellar,4,296000
+PROP-1343,Cozy Hillside View Residence,Single Family,Hillside View,2085,3,2.5,6,2,13.8,Fitness Center; Home Cinema; Private Garden; Scenic Balcony,4,705000
+PROP-1344,Charming Hillside View Haven,Condo,Hillside View,1151,2,2.0,4,1,9.3,Private Garden; Solar Panels; Wine Cellar,3,536000
+PROP-1345,Modern Waterfront Townhome,Condo,Waterfront,1063,2,1.5,0,1,4.1,24/7 Gated Security; Smart Home Automation; Solar Panels,3,692000
+PROP-1346,Spacious Suburbs Residence,Penthouse,Suburbs,2645,4,4.0,8,3,12.1,EV Fast Charger; Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation; Solar Panels; Swimming Pool; Wine Cellar,8,790000
+PROP-1347,Serene Historic District Villa,Townhouse,Historic District,1601,3,2.5,1,2,4.7,EV Fast Charger; Smart Home Automation; Solar Panels,3,666000
+PROP-1348,Urban Suburbs Oasis,Condo,Suburbs,1219,2,2.5,7,0,21.0,24/7 Gated Security; Fitness Center; Scenic Balcony; Smart Home Automation; Solar Panels,5,383000
+PROP-1349,Contemporary Suburbs Penthouse,Single Family,Suburbs,1996,3,2.5,11,2,12.3,24/7 Gated Security; EV Fast Charger; Fitness Center; Scenic Balcony,4,528000
+PROP-1350,Exclusive Suburbs Townhome,Villa,Suburbs,3461,5,6.0,11,2,17.6,24/7 Gated Security; EV Fast Charger; Scenic Balcony; Smart Home Automation; Solar Panels; Wine Cellar,6,876000
+PROP-1351,Contemporary Downtown Estate,Penthouse,Downtown,2665,4,4.5,10,2,2.1,24/7 Gated Security; Fitness Center; Home Cinema; Private Garden; Swimming Pool; Wine Cellar,6,1279000
+PROP-1352,Contemporary Suburbs Residence,Single Family,Suburbs,2087,3,3.5,6,2,17.0,Fitness Center; Home Cinema; Private Garden; Smart Home Automation; Solar Panels,5,640000
+PROP-1353,Charming Suburbs Villa,Single Family,Suburbs,2644,4,4.0,1,2,9.6,24/7 Gated Security; Scenic Balcony; Solar Panels; Swimming Pool; Wine Cellar,5,850000
+PROP-1354,Contemporary Tech Corridor Estate,Townhouse,Tech Corridor,1559,4,3.5,9,2,7.9,EV Fast Charger,1,712000
+PROP-1355,Serene Tech Corridor Estate,Condo,Tech Corridor,1029,2,1.5,6,0,8.4,24/7 Gated Security; Fitness Center; Swimming Pool,3,560000
+PROP-1356,Contemporary Waterfront Residence,Single Family,Waterfront,1886,3,3.5,0,2,8.3,Fitness Center,1,1098000
+PROP-1357,Contemporary Suburbs Penthouse,Single Family,Suburbs,2037,3,3.5,23,2,16.3,Solar Panels; Wine Cellar,2,530000
+PROP-1358,Spacious Waterfront Villa,Condo,Waterfront,809,1,1.5,1,1,13.8,24/7 Gated Security; Private Garden,2,472000
+PROP-1359,Contemporary Tech Corridor Townhome,Condo,Tech Corridor,930,3,3.0,2,1,6.7,Fitness Center; Solar Panels,2,559000
+PROP-1360,Contemporary Tech Corridor Loft,Single Family,Tech Corridor,2115,4,4.0,4,2,3.0,Private Garden; Smart Home Automation; Solar Panels,3,1031000
+PROP-1361,Exclusive Waterfront Townhome,Condo,Waterfront,529,2,1.5,22,1,10.4,Private Garden; Smart Home Automation; Swimming Pool,3,409000
+PROP-1362,Urban Waterfront Villa,Townhouse,Waterfront,1368,2,1.5,3,2,14.8,Private Garden; Swimming Pool,2,759000
+PROP-1363,Classic Downtown Estate,Condo,Downtown,671,2,2.5,31,0,1.6,24/7 Gated Security; Home Cinema; Swimming Pool,3,410000
+PROP-1364,Contemporary Suburbs Haven,Townhouse,Suburbs,1167,2,2.5,1,1,19.7,EV Fast Charger; Home Cinema; Solar Panels,3,370000
+PROP-1365,Exclusive Tech Corridor Retreat,Single Family,Tech Corridor,1427,2,2.5,45,2,6.0,Scenic Balcony; Swimming Pool,2,469000
+PROP-1366,Modern Tech Corridor Manor,Condo,Tech Corridor,1000,3,2.5,4,0,6.0,Fitness Center; Scenic Balcony; Solar Panels,3,540000
+PROP-1367,Classic Suburbs Villa,Condo,Suburbs,995,3,2.5,21,1,14.2,Home Cinema; Solar Panels,2,314000
+PROP-1368,Charming Tech Corridor Haven,Townhouse,Tech Corridor,1330,2,2.0,5,1,4.3,Fitness Center; Scenic Balcony; Smart Home Automation,3,602000
+PROP-1369,Spacious Suburbs Manor,Penthouse,Suburbs,2830,4,4.0,1,3,14.2,Smart Home Automation; Swimming Pool; Wine Cellar,3,837000
+PROP-1370,Classic Downtown Penthouse,Single Family,Downtown,2087,3,2.5,25,3,2.3,EV Fast Charger,1,866000
+PROP-1371,Modern Waterfront Manor,Townhouse,Waterfront,2238,4,3.5,0,1,9.2,24/7 Gated Security; Solar Panels,2,1277000
+PROP-1372,Cozy Historic District Manor,Single Family,Historic District,1361,3,3.5,15,3,6.0,Fitness Center; Home Cinema; Smart Home Automation; Solar Panels,4,587000
+PROP-1373,Spacious Waterfront Residence,Condo,Waterfront,859,1,1.0,34,1,5.6,Wine Cellar,1,410000
+PROP-1374,Charming Downtown Haven,Townhouse,Downtown,1763,4,3.5,5,1,1.2,EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Swimming Pool,5,988000
+PROP-1375,Serene Waterfront Loft,Single Family,Waterfront,2551,4,4.5,8,2,10.4,Home Cinema; Swimming Pool,2,1303000
+PROP-1376,Exclusive Suburbs Haven,Condo,Suburbs,1248,2,2.5,37,1,10.8,24/7 Gated Security; Fitness Center; Smart Home Automation; Swimming Pool,4,338000
+PROP-1377,Classic Downtown Manor,Townhouse,Downtown,1999,4,3.5,3,1,0.4,24/7 Gated Security; EV Fast Charger; Fitness Center; Scenic Balcony; Solar Panels; Wine Cellar,6,1102000
+PROP-1378,Cozy Waterfront Loft,Single Family,Waterfront,2687,5,4.5,24,1,9.8,Smart Home Automation; Wine Cellar,2,1201000
+PROP-1379,Spacious Waterfront Haven,Condo,Waterfront,1306,3,3.0,15,0,9.8,Home Cinema; Private Garden; Wine Cellar,3,794000
+PROP-1380,Serene Greenfield Retreat,Single Family,Greenfield,2131,3,2.5,0,1,30.9,24/7 Gated Security; Swimming Pool; Wine Cellar,3,455000
+PROP-1381,Spacious Downtown Retreat,Condo,Downtown,1066,2,2.5,1,1,1.9,EV Fast Charger; Swimming Pool,2,646000
+PROP-1382,Exclusive Downtown Estate,Penthouse,Downtown,2718,5,5.0,5,2,0.7,24/7 Gated Security; EV Fast Charger; Home Cinema; Private Garden; Scenic Balcony; Smart Home Automation; Swimming Pool,7,1413000
+PROP-1383,Charming Tech Corridor Retreat,Single Family,Tech Corridor,1158,3,2.5,18,2,7.1,Scenic Balcony; Solar Panels; Swimming Pool,3,586000
+PROP-1384,Charming Suburbs Manor,Single Family,Suburbs,1315,3,3.0,19,2,21.0,24/7 Gated Security; EV Fast Charger; Solar Panels; Wine Cellar,4,381000
+PROP-1385,Urban Greenfield Oasis,Single Family,Greenfield,2656,4,4.5,3,2,25.9,EV Fast Charger; Fitness Center; Solar Panels; Wine Cellar,4,558000
+PROP-1386,Modern Suburbs Oasis,Single Family,Suburbs,2232,4,4.5,1,2,20.4,EV Fast Charger; Private Garden,2,633000
+PROP-1387,Charming Suburbs Residence,Single Family,Suburbs,900,2,2.0,13,1,11.4,Smart Home Automation; Swimming Pool,2,340000
+PROP-1388,Spacious Downtown Haven,Townhouse,Downtown,1903,4,3.5,8,1,0.8,24/7 Gated Security; Home Cinema; Scenic Balcony; Solar Panels; Swimming Pool; Wine Cellar,6,1085000
+PROP-1389,Spacious Greenfield Manor,Penthouse,Greenfield,2430,4,5.0,1,2,25.7,Fitness Center; Home Cinema; Private Garden; Swimming Pool; Wine Cellar,5,603000
+PROP-1390,Cozy Downtown Townhome,Townhouse,Downtown,1462,3,3.0,0,2,3.0,24/7 Gated Security; Private Garden; Scenic Balcony; Solar Panels; Swimming Pool; Wine Cellar,6,942000
+PROP-1391,Charming Suburbs Oasis,Townhouse,Suburbs,1392,2,1.5,3,1,19.8,Fitness Center,1,413000
+PROP-1392,Luxury Historic District Estate,Single Family,Historic District,2765,5,4.5,28,2,5.0,24/7 Gated Security; Fitness Center; Private Garden; Swimming Pool,4,785000
+PROP-1393,Serene Greenfield Estate,Condo,Greenfield,933,2,2.5,13,1,17.4,24/7 Gated Security; EV Fast Charger; Scenic Balcony; Swimming Pool,4,344000
+PROP-1394,Cozy Suburbs Townhome,Penthouse,Suburbs,3075,5,5.0,1,2,17.5,EV Fast Charger; Smart Home Automation; Solar Panels; Swimming Pool,4,839000
+PROP-1395,Contemporary Suburbs Retreat,Single Family,Suburbs,3432,5,4.5,8,1,13.4,EV Fast Charger; Home Cinema; Swimming Pool,3,863000
+PROP-1396,Serene Suburbs Residence,Condo,Suburbs,931,3,3.0,17,1,8.0,Home Cinema; Private Garden; Swimming Pool,3,422000
+PROP-1397,Classic Waterfront Villa,Townhouse,Waterfront,1564,3,2.5,15,1,8.1,Home Cinema; Wine Cellar,2,849000
+PROP-1398,Urban Suburbs Penthouse,Single Family,Suburbs,2415,5,4.5,16,2,8.5,Smart Home Automation; Swimming Pool; Wine Cellar,3,732000
+PROP-1399,Charming Suburbs Loft,Condo,Suburbs,1118,3,3.0,44,1,8.7,Fitness Center; Solar Panels,2,330000
+PROP-1400,Spacious Suburbs Loft,Townhouse,Suburbs,1546,3,2.5,5,1,8.8,Fitness Center; Private Garden; Scenic Balcony; Solar Panels; Swimming Pool,5,609000
+PROP-1401,Cozy Tech Corridor Townhome,Townhouse,Tech Corridor,1662,4,3.5,0,2,5.0,24/7 Gated Security; Swimming Pool; Wine Cellar,3,880000
+PROP-1402,Contemporary Downtown Haven,Villa,Downtown,3639,5,6.0,9,3,2.2,EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Smart Home Automation; Swimming Pool,6,1641000
+PROP-1403,Spacious Suburbs Residence,Single Family,Suburbs,2189,4,4.0,13,2,12.4,24/7 Gated Security; Private Garden; Swimming Pool,3,623000
+PROP-1404,Contemporary Tech Corridor Penthouse,Penthouse,Tech Corridor,3157,5,5.0,10,3,3.0,24/7 Gated Security; Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation; Swimming Pool,6,1424000
+PROP-1405,Classic Hillside View Estate,Villa,Hillside View,2732,4,4.5,4,3,7.8,24/7 Gated Security; Fitness Center; Scenic Balcony; Solar Panels,4,1017000
+PROP-1406,Exclusive Greenfield Townhome,Townhouse,Greenfield,1396,2,2.0,10,1,26.3,24/7 Gated Security; EV Fast Charger; Solar Panels,3,333000
+PROP-1407,Modern Historic District Estate,Single Family,Historic District,2765,5,4.5,21,2,6.4,Scenic Balcony; Smart Home Automation; Solar Panels,3,831000
+PROP-1408,Cozy Downtown Residence,Single Family,Downtown,1686,3,3.5,33,2,2.2,Fitness Center; Scenic Balcony; Swimming Pool; Wine Cellar,4,699000
+PROP-1409,Classic Greenfield Manor,Villa,Greenfield,3305,6,6.0,45,3,19.1,EV Fast Charger; Fitness Center; Home Cinema; Wine Cellar,4,556000
+PROP-1410,Modern Suburbs Loft,Villa,Suburbs,5288,6,6.0,18,3,10.9,24/7 Gated Security; EV Fast Charger; Fitness Center; Swimming Pool,4,1211000
+PROP-1411,Luxury Suburbs Villa,Single Family,Suburbs,2622,4,4.0,4,2,11.9,Fitness Center; Swimming Pool,2,801000
+PROP-1412,Serene Suburbs Residence,Condo,Suburbs,955,3,3.0,12,0,19.3,EV Fast Charger; Scenic Balcony,2,333000
+PROP-1413,Urban Waterfront Manor,Single Family,Waterfront,2116,4,3.5,14,3,4.7,Private Garden; Solar Panels; Wine Cellar,3,1215000
+PROP-1414,Contemporary Historic District Manor,Single Family,Historic District,1740,4,3.5,9,3,4.1,Smart Home Automation,1,736000
+PROP-1415,Cozy Suburbs Townhome,Penthouse,Suburbs,3811,5,5.0,19,2,14.4,Fitness Center; Home Cinema; Solar Panels; Wine Cellar,4,875000
+PROP-1416,Luxury Hillside View Manor,Townhouse,Hillside View,1100,3,3.5,7,1,6.3,Scenic Balcony; Solar Panels; Wine Cellar,3,615000
+PROP-1417,Modern Suburbs Loft,Villa,Suburbs,3499,6,6.0,36,2,21.9,24/7 Gated Security; Home Cinema; Smart Home Automation; Solar Panels; Wine Cellar,5,681000
+PROP-1418,Classic Downtown Haven,Single Family,Downtown,1321,2,2.0,0,2,2.3,EV Fast Charger; Solar Panels; Swimming Pool,3,767000
+PROP-1419,Contemporary Suburbs Haven,Single Family,Suburbs,2434,4,3.5,17,3,12.3,EV Fast Charger; Private Garden; Wine Cellar,3,647000
+PROP-1420,Urban Suburbs Retreat,Condo,Suburbs,889,1,1.5,17,1,20.0,24/7 Gated Security; EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Smart Home Automation,6,262000
+PROP-1421,Spacious Downtown Oasis,Condo,Downtown,1234,3,2.5,9,0,2.9,24/7 Gated Security; Scenic Balcony,2,638000
+PROP-1422,Spacious Downtown Manor,Condo,Downtown,965,3,3.0,3,0,1.6,Smart Home Automation; Swimming Pool,2,590000
+PROP-1423,Serene Downtown Penthouse,Single Family,Downtown,4122,5,4.5,1,2,0.4,Private Garden; Swimming Pool; Wine Cellar,3,1820000
+PROP-1424,Contemporary Suburbs Villa,Condo,Suburbs,928,3,3.0,45,1,13.4,EV Fast Charger; Private Garden; Solar Panels; Wine Cellar,4,301000
+PROP-1425,Urban Hillside View Estate,Townhouse,Hillside View,1100,2,2.0,25,2,14.7,Fitness Center; Home Cinema; Solar Panels,3,460000
+PROP-1426,Luxury Greenfield Villa,Single Family,Greenfield,1757,3,2.5,13,1,18.8,Private Garden; Solar Panels,2,411000
+PROP-1427,Classic Downtown Manor,Townhouse,Downtown,2155,4,3.5,4,1,3.0,Smart Home Automation; Solar Panels,2,1016000
+PROP-1428,Luxury Downtown Townhome,Condo,Downtown,895,1,1.5,6,1,2.7,EV Fast Charger; Home Cinema; Smart Home Automation,3,472000
+PROP-1429,Spacious Tech Corridor Townhome,Townhouse,Tech Corridor,1224,3,2.5,10,1,2.7,Solar Panels,1,607000
+PROP-1430,Classic Tech Corridor Villa,Townhouse,Tech Corridor,1235,3,3.5,7,2,3.1,EV Fast Charger; Fitness Center; Scenic Balcony; Smart Home Automation; Wine Cellar,5,771000
+PROP-1431,Modern Suburbs Villa,Townhouse,Suburbs,1919,4,3.5,8,2,14.5,EV Fast Charger; Solar Panels; Swimming Pool,3,611000
+PROP-1432,Charming Downtown Haven,Condo,Downtown,908,2,2.0,10,1,0.5,24/7 Gated Security; Scenic Balcony; Swimming Pool,3,574000
+PROP-1433,Charming Historic District Estate,Penthouse,Historic District,3483,5,5.0,0,2,5.3,24/7 Gated Security; Private Garden; Scenic Balcony; Smart Home Automation; Solar Panels; Swimming Pool; Wine Cellar,7,1242000
+PROP-1434,Contemporary Suburbs Loft,Townhouse,Suburbs,1471,2,2.5,6,2,18.6,24/7 Gated Security; Home Cinema; Scenic Balcony; Smart Home Automation,4,425000
+PROP-1435,Exclusive Suburbs Estate,Penthouse,Suburbs,3226,5,5.0,3,2,9.8,24/7 Gated Security; EV Fast Charger; Home Cinema; Scenic Balcony; Swimming Pool,5,968000
+PROP-1436,Charming Downtown Loft,Townhouse,Downtown,1236,3,2.5,1,1,1.5,Home Cinema; Solar Panels; Swimming Pool,3,760000
+PROP-1437,Classic Historic District Oasis,Single Family,Historic District,3023,5,4.5,8,2,4.2,24/7 Gated Security; Private Garden; Smart Home Automation,3,996000
+PROP-1438,Charming Waterfront Residence,Condo,Waterfront,868,1,1.5,17,1,5.1,Swimming Pool,1,552000
+PROP-1439,Contemporary Waterfront Retreat,Condo,Waterfront,1448,3,2.5,21,1,11.7,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Scenic Balcony; Solar Panels,6,866000
+PROP-1440,Charming Downtown Retreat,Single Family,Downtown,2023,3,3.5,15,2,3.1,24/7 Gated Security; Home Cinema; Private Garden; Wine Cellar,4,1006000
+PROP-1441,Spacious Tech Corridor Townhome,Condo,Tech Corridor,1159,2,1.5,4,0,8.9,24/7 Gated Security; EV Fast Charger; Solar Panels; Swimming Pool,4,549000
+PROP-1442,Serene Historic District Residence,Single Family,Historic District,2441,5,4.5,9,2,4.5,Scenic Balcony; Smart Home Automation; Wine Cellar,3,909000
+PROP-1443,Cozy Suburbs Manor,Single Family,Suburbs,2910,5,4.5,18,1,9.7,Home Cinema; Scenic Balcony,2,615000
+PROP-1444,Classic Downtown Retreat,Villa,Downtown,4140,6,6.0,9,2,1.9,24/7 Gated Security; EV Fast Charger; Home Cinema; Private Garden; Smart Home Automation; Solar Panels; Swimming Pool; Wine Cellar,8,1971000
+PROP-1445,Charming Tech Corridor Haven,Penthouse,Tech Corridor,2953,5,5.0,4,2,5.6,Private Garden; Smart Home Automation; Solar Panels; Wine Cellar,4,1387000
+PROP-1446,Urban Historic District Retreat,Townhouse,Historic District,1776,3,3.5,4,1,8.2,24/7 Gated Security; Solar Panels; Swimming Pool,3,662000
+PROP-1447,Classic Suburbs Loft,Condo,Suburbs,1214,2,2.0,10,1,19.7,Private Garden; Swimming Pool,2,381000
+PROP-1448,Spacious Tech Corridor Penthouse,Condo,Tech Corridor,857,1,1.0,2,0,5.2,24/7 Gated Security; Home Cinema; Smart Home Automation,3,443000
+PROP-1449,Exclusive Suburbs Estate,Single Family,Suburbs,2138,4,4.0,3,2,13.0,Smart Home Automation,1,658000
+PROP-1450,Serene Greenfield Residence,Penthouse,Greenfield,2677,5,5.0,2,2,21.5,24/7 Gated Security; Home Cinema; Private Garden; Solar Panels; Wine Cellar,5,618000
+PROP-1451,Cozy Suburbs Townhome,Condo,Suburbs,810,1,1.5,11,1,21.9,EV Fast Charger; Fitness Center; Swimming Pool,3,286000
+PROP-1452,Serene Greenfield Haven,Single Family,Greenfield,2433,4,3.5,7,1,31.6,Fitness Center; Home Cinema; Scenic Balcony; Smart Home Automation; Solar Panels,5,501000
+PROP-1453,Contemporary Hillside View Oasis,Single Family,Hillside View,2262,5,4.5,2,2,10.4,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Scenic Balcony; Solar Panels,6,950000
+PROP-1454,Charming Suburbs Estate,Villa,Suburbs,3867,5,6.0,8,3,18.4,EV Fast Charger; Solar Panels; Swimming Pool; Wine Cellar,4,900000
+PROP-1455,Serene Waterfront Villa,Single Family,Waterfront,2640,5,4.5,10,1,5.9,24/7 Gated Security; Fitness Center; Scenic Balcony; Solar Panels,4,1501000
+PROP-1456,Charming Suburbs Residence,Condo,Suburbs,1391,3,3.0,3,1,8.2,Home Cinema,1,468000
+PROP-1457,Charming Greenfield Residence,Penthouse,Greenfield,3394,5,5.0,3,2,25.2,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Swimming Pool,6,736000
+PROP-1458,Luxury Suburbs Retreat,Single Family,Suburbs,2081,4,4.0,0,2,16.8,Fitness Center; Smart Home Automation; Solar Panels,3,649000
+PROP-1459,Spacious Greenfield Residence,Condo,Greenfield,1105,2,2.5,6,1,29.3,24/7 Gated Security; Home Cinema; Scenic Balcony,3,294000
+PROP-1460,Charming Greenfield Estate,Condo,Greenfield,1091,3,3.0,0,0,22.4,Fitness Center; Scenic Balcony; Solar Panels; Swimming Pool,4,319000
+PROP-1461,Serene Suburbs Retreat,Single Family,Suburbs,2323,4,3.5,3,2,14.1,24/7 Gated Security; Fitness Center; Swimming Pool,3,677000
+PROP-1462,Luxury Historic District Manor,Condo,Historic District,1387,3,2.5,15,0,3.1,Fitness Center; Swimming Pool; Wine Cellar,3,577000
+PROP-1463,Luxury Suburbs Retreat,Single Family,Suburbs,2361,5,4.5,5,1,8.2,EV Fast Charger; Private Garden; Solar Panels,3,733000
+PROP-1464,Contemporary Suburbs Penthouse,Single Family,Suburbs,1664,4,4.0,10,2,13.2,Scenic Balcony; Solar Panels; Wine Cellar,3,495000
+PROP-1465,Urban Tech Corridor Loft,Single Family,Tech Corridor,2622,4,4.5,3,2,7.6,Fitness Center,1,1077000
+PROP-1466,Spacious Tech Corridor Haven,Townhouse,Tech Corridor,1749,3,3.5,0,1,4.9,24/7 Gated Security; Private Garden; Scenic Balcony; Solar Panels,4,792000
+PROP-1467,Contemporary Waterfront Manor,Penthouse,Waterfront,2876,4,5.0,5,2,13.8,24/7 Gated Security; EV Fast Charger; Private Garden; Scenic Balcony; Swimming Pool,5,1499000
+PROP-1468,Exclusive Historic District Manor,Townhouse,Historic District,1982,3,3.0,3,2,7.1,Fitness Center,1,710000
+PROP-1469,Modern Tech Corridor Retreat,Single Family,Tech Corridor,1311,3,3.5,0,3,7.9,EV Fast Charger; Private Garden,2,660000
+PROP-1470,Classic Waterfront Residence,Single Family,Waterfront,1936,3,2.5,8,2,4.6,Smart Home Automation; Swimming Pool,2,1022000
+PROP-1471,Spacious Suburbs Residence,Single Family,Suburbs,2636,4,3.5,6,2,17.2,24/7 Gated Security; Solar Panels; Swimming Pool; Wine Cellar,4,721000
+PROP-1472,Spacious Suburbs Manor,Condo,Suburbs,775,2,1.5,2,0,17.3,24/7 Gated Security; Fitness Center; Home Cinema,3,299000
+PROP-1473,Spacious Suburbs Manor,Villa,Suburbs,3895,6,6.0,4,2,12.3,24/7 Gated Security; EV Fast Charger; Scenic Balcony; Wine Cellar,4,1067000
+PROP-1474,Urban Downtown Estate,Townhouse,Downtown,1679,3,2.5,5,1,3.0,EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Smart Home Automation; Solar Panels,6,835000
+PROP-1475,Contemporary Tech Corridor Villa,Townhouse,Tech Corridor,1449,3,3.5,4,2,4.8,EV Fast Charger; Home Cinema; Solar Panels,3,798000
+PROP-1476,Classic Suburbs Penthouse,Single Family,Suburbs,2589,4,3.5,5,1,15.7,Home Cinema; Private Garden; Swimming Pool,3,706000
+PROP-1477,Urban Waterfront Residence,Townhouse,Waterfront,1229,3,2.5,21,2,13.4,Private Garden,1,635000
+PROP-1478,Cozy Tech Corridor Haven,Condo,Tech Corridor,852,2,1.5,13,0,3.7,Home Cinema,1,455000
+PROP-1479,Classic Downtown Loft,Villa,Downtown,3074,4,4.0,0,2,2.6,EV Fast Charger; Private Garden; Solar Panels; Swimming Pool; Wine Cellar,5,1537000
+PROP-1480,Charming Suburbs Manor,Single Family,Suburbs,2261,5,4.5,0,1,10.3,Home Cinema; Scenic Balcony; Wine Cellar,3,808000
+PROP-1481,Contemporary Suburbs Oasis,Townhouse,Suburbs,1565,4,3.5,3,1,15.3,24/7 Gated Security; EV Fast Charger; Wine Cellar,3,540000
+PROP-1482,Contemporary Historic District Townhome,Single Family,Historic District,1420,2,2.5,3,2,3.9,Home Cinema; Swimming Pool; Wine Cellar,3,632000
+PROP-1483,Luxury Greenfield Loft,Condo,Greenfield,978,2,1.5,6,1,24.2,EV Fast Charger; Home Cinema; Private Garden; Scenic Balcony; Solar Panels,5,303000
+PROP-1484,Urban Hillside View Manor,Single Family,Hillside View,2797,5,4.5,6,2,13.6,24/7 Gated Security; EV Fast Charger; Home Cinema; Wine Cellar,4,1056000
+PROP-1485,Modern Downtown Penthouse,Townhouse,Downtown,1814,3,2.5,32,1,1.7,24/7 Gated Security,1,713000
+PROP-1486,Urban Waterfront Estate,Townhouse,Waterfront,1653,3,2.5,13,2,12.5,Solar Panels,1,834000
+PROP-1487,Contemporary Historic District Villa,Townhouse,Historic District,1958,3,2.5,26,1,3.9,Home Cinema; Private Garden; Smart Home Automation,3,593000
+PROP-1488,Serene Suburbs Haven,Townhouse,Suburbs,1840,4,3.5,21,1,19.5,24/7 Gated Security; Fitness Center,2,469000
+PROP-1489,Urban Greenfield Haven,Townhouse,Greenfield,1634,3,3.0,7,2,18.1,EV Fast Charger; Solar Panels; Wine Cellar,3,457000
+PROP-1490,Spacious Waterfront Estate,Single Family,Waterfront,1759,4,3.5,27,2,6.2,24/7 Gated Security; EV Fast Charger; Smart Home Automation; Solar Panels; Wine Cellar,5,934000
+PROP-1491,Serene Downtown Townhome,Townhouse,Downtown,1904,4,3.5,12,1,0.5,24/7 Gated Security; Home Cinema; Scenic Balcony,3,863000
+PROP-1492,Urban Hillside View Estate,Townhouse,Hillside View,2010,4,3.5,4,1,6.4,24/7 Gated Security; Smart Home Automation,2,793000
+PROP-1493,Exclusive Downtown Loft,Condo,Downtown,636,1,1.5,7,0,2.6,24/7 Gated Security; EV Fast Charger; Home Cinema; Scenic Balcony; Smart Home Automation,5,396000
+PROP-1494,Spacious Suburbs Penthouse,Condo,Suburbs,1272,2,2.0,13,0,14.8,24/7 Gated Security; Solar Panels,2,389000
+PROP-1495,Cozy Waterfront Villa,Condo,Waterfront,1017,2,1.5,18,1,12.3,24/7 Gated Security; EV Fast Charger; Home Cinema; Smart Home Automation,4,611000
+PROP-1496,Spacious Tech Corridor Haven,Penthouse,Tech Corridor,2841,4,5.0,11,3,7.3,Fitness Center; Home Cinema; Private Garden; Scenic Balcony; Swimming Pool,5,1248000
+PROP-1497,Luxury Tech Corridor Retreat,Single Family,Tech Corridor,1956,4,4.0,28,2,7.4,Fitness Center; Home Cinema; Smart Home Automation; Solar Panels,4,744000
+PROP-1498,Cozy Suburbs Penthouse,Condo,Suburbs,1374,3,3.0,12,1,10.2,EV Fast Charger; Fitness Center,2,470000
+PROP-1499,Luxury Hillside View Villa,Townhouse,Hillside View,2192,4,3.5,10,1,13.5,Home Cinema; Private Garden; Smart Home Automation,3,767000
+PROP-1500,Urban Suburbs Loft,Villa,Suburbs,4079,6,6.0,10,3,9.9,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Smart Home Automation; Solar Panels; Swimming Pool; Wine Cellar,8,1178000
+PROP-1501,Charming Hillside View Retreat,Townhouse,Hillside View,1104,3,2.5,14,1,6.9,Home Cinema; Private Garden; Wine Cellar,3,474000
+PROP-1502,Serene Suburbs Haven,Villa,Suburbs,3920,6,6.0,2,2,17.7,Fitness Center; Home Cinema; Solar Panels,3,1036000
+PROP-1503,Modern Suburbs Haven,Condo,Suburbs,1065,3,3.0,20,1,18.9,Wine Cellar,1,303000
+PROP-1504,Cozy Suburbs Haven,Townhouse,Suburbs,1440,3,3.0,5,2,14.1,24/7 Gated Security; Solar Panels,2,495000
+PROP-1505,Classic Historic District Penthouse,Condo,Historic District,1037,3,3.0,4,1,8.3,24/7 Gated Security; EV Fast Charger; Smart Home Automation; Swimming Pool,4,463000
+PROP-1506,Spacious Suburbs Villa,Single Family,Suburbs,2018,3,3.5,20,3,19.8,Home Cinema,1,508000
+PROP-1507,Classic Waterfront Residence,Condo,Waterfront,1067,3,3.0,45,0,7.6,24/7 Gated Security; Private Garden,2,494000
+PROP-1508,Classic Suburbs Oasis,Villa,Suburbs,4329,6,6.0,3,4,8.6,24/7 Gated Security; EV Fast Charger; Home Cinema; Swimming Pool; Wine Cellar,5,1292000
+PROP-1509,Serene Suburbs Retreat,Condo,Suburbs,695,2,2.5,18,0,15.9,24/7 Gated Security; Home Cinema; Private Garden; Swimming Pool; Wine Cellar,5,314000
+PROP-1510,Modern Waterfront Loft,Single Family,Waterfront,2794,5,4.5,17,1,10.9,24/7 Gated Security; EV Fast Charger; Home Cinema; Private Garden; Swimming Pool,5,1306000
+PROP-1511,Exclusive Suburbs Haven,Single Family,Suburbs,2412,4,4.5,23,2,16.2,Home Cinema,1,599000
+PROP-1512,Charming Tech Corridor Penthouse,Single Family,Tech Corridor,2279,4,4.5,14,2,5.0,Fitness Center; Private Garden; Scenic Balcony,3,957000
+PROP-1513,Luxury Historic District Manor,Penthouse,Historic District,3049,5,5.0,5,3,5.9,EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Solar Panels; Swimming Pool,6,1053000
+PROP-1514,Modern Downtown Villa,Single Family,Downtown,2544,4,4.0,7,1,2.5,Fitness Center; Private Garden,2,1175000
+PROP-1515,Exclusive Suburbs Haven,Condo,Suburbs,685,1,1.5,8,0,17.7,Fitness Center; Scenic Balcony; Swimming Pool,3,299000
+PROP-1516,Exclusive Tech Corridor Manor,Condo,Tech Corridor,1202,3,3.0,12,0,6.4,Fitness Center; Solar Panels; Swimming Pool; Wine Cellar,4,675000
+PROP-1517,Serene Suburbs Haven,Townhouse,Suburbs,1818,4,3.5,21,2,10.4,EV Fast Charger; Scenic Balcony; Smart Home Automation,3,490000
+PROP-1518,Exclusive Waterfront Retreat,Condo,Waterfront,1338,3,3.0,28,1,11.0,Scenic Balcony,1,641000
+PROP-1519,Contemporary Greenfield Haven,Single Family,Greenfield,2851,5,4.5,10,2,21.0,24/7 Gated Security; Solar Panels; Swimming Pool,3,609000
+PROP-1520,Classic Downtown Loft,Condo,Downtown,748,2,2.5,12,1,1.0,Fitness Center; Private Garden; Smart Home Automation,3,498000
+PROP-1521,Cozy Suburbs Retreat,Condo,Suburbs,1107,3,3.0,2,0,11.0,Private Garden; Solar Panels; Wine Cellar,3,420000
+PROP-1522,Exclusive Suburbs Manor,Single Family,Suburbs,2676,4,4.5,0,2,12.7,24/7 Gated Security; EV Fast Charger; Home Cinema; Swimming Pool,4,870000
+PROP-1523,Urban Suburbs Residence,Single Family,Suburbs,2388,5,4.5,5,1,9.0,Wine Cellar,1,736000
+PROP-1524,Charming Suburbs Residence,Townhouse,Suburbs,1452,3,3.0,1,1,10.3,Fitness Center; Smart Home Automation,2,478000
+PROP-1525,Classic Waterfront Villa,Single Family,Waterfront,1263,3,3.5,4,2,6.6,24/7 Gated Security; Solar Panels; Wine Cellar,3,897000
+PROP-1526,Classic Downtown Oasis,Single Family,Downtown,1990,3,2.5,44,2,0.8,24/7 Gated Security; Fitness Center; Scenic Balcony; Smart Home Automation,4,710000
+PROP-1527,Spacious Waterfront Townhome,Single Family,Waterfront,2309,5,4.5,3,3,5.1,Fitness Center; Home Cinema,2,1441000
+PROP-1528,Contemporary Downtown Manor,Single Family,Downtown,2493,5,4.5,10,1,1.9,24/7 Gated Security; Home Cinema; Private Garden; Smart Home Automation,4,1228000
+PROP-1529,Luxury Hillside View Penthouse,Townhouse,Hillside View,1754,4,3.5,6,2,14.8,Private Garden; Scenic Balcony; Wine Cellar,3,679000
+PROP-1530,Modern Suburbs Estate,Penthouse,Suburbs,3572,5,5.0,15,2,16.0,24/7 Gated Security; Fitness Center; Scenic Balcony; Smart Home Automation; Solar Panels,5,819000
+PROP-1531,Charming Waterfront Townhome,Condo,Waterfront,1232,2,2.0,9,0,13.2,Home Cinema; Swimming Pool,2,681000
+PROP-1532,Spacious Tech Corridor Townhome,Townhouse,Tech Corridor,1294,3,2.5,8,2,5.6,Solar Panels,1,620000
+PROP-1533,Contemporary Greenfield Retreat,Townhouse,Greenfield,1522,3,3.0,14,1,22.1,24/7 Gated Security; EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Swimming Pool,6,410000
+PROP-1534,Urban Suburbs Oasis,Single Family,Suburbs,2708,4,3.5,8,2,18.3,24/7 Gated Security; Scenic Balcony,2,667000
+PROP-1535,Modern Hillside View Townhome,Single Family,Hillside View,2803,5,4.5,16,3,7.1,Fitness Center; Home Cinema; Smart Home Automation,3,999000
+PROP-1536,Serene Waterfront Loft,Single Family,Waterfront,2327,4,3.5,28,2,10.6,24/7 Gated Security; Fitness Center; Smart Home Automation,3,982000
+PROP-1537,Spacious Waterfront Oasis,Single Family,Waterfront,3058,5,4.5,3,2,14.3,EV Fast Charger; Smart Home Automation; Swimming Pool; Wine Cellar,4,1645000
+PROP-1538,Spacious Downtown Residence,Single Family,Downtown,2032,3,3.5,4,2,3.5,Home Cinema; Private Garden; Solar Panels,3,1040000
+PROP-1539,Urban Tech Corridor Oasis,Townhouse,Tech Corridor,2393,4,3.5,11,2,6.4,24/7 Gated Security; Fitness Center; Scenic Balcony,3,1048000
+PROP-1540,Luxury Waterfront Estate,Condo,Waterfront,913,2,2.0,9,0,6.2,Private Garden; Scenic Balcony; Swimming Pool,3,599000
+PROP-1541,Spacious Waterfront Retreat,Single Family,Waterfront,1650,3,2.5,11,3,14.2,Solar Panels; Swimming Pool; Wine Cellar,3,898000
+PROP-1542,Contemporary Greenfield Loft,Condo,Greenfield,1057,2,1.5,14,1,25.5,Smart Home Automation; Swimming Pool; Wine Cellar,3,310000
+PROP-1543,Spacious Suburbs Townhome,Villa,Suburbs,3855,6,6.0,5,4,17.9,EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Smart Home Automation; Solar Panels,6,1083000
+PROP-1544,Serene Tech Corridor Villa,Single Family,Tech Corridor,3312,5,4.5,12,1,4.0,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema,4,1283000
+PROP-1545,Cozy Downtown Manor,Single Family,Downtown,1992,4,4.5,11,1,1.2,Home Cinema; Scenic Balcony; Solar Panels,3,1060000
+PROP-1546,Spacious Downtown Townhome,Penthouse,Downtown,2411,5,5.0,17,2,3.2,Fitness Center; Home Cinema; Private Garden; Swimming Pool; Wine Cellar,5,1193000
+PROP-1547,Exclusive Waterfront Villa,Single Family,Waterfront,2684,5,4.5,10,1,11.2,Home Cinema; Scenic Balcony; Solar Panels; Swimming Pool; Wine Cellar,5,1482000
+PROP-1548,Spacious Suburbs Retreat,Townhouse,Suburbs,1733,3,2.5,31,2,13.1,24/7 Gated Security; Fitness Center; Private Garden; Scenic Balcony,4,394000
+PROP-1549,Charming Waterfront Haven,Single Family,Waterfront,2817,5,4.5,3,1,8.6,Home Cinema; Scenic Balcony; Smart Home Automation; Solar Panels,4,1515000
+PROP-1550,Serene Tech Corridor Loft,Townhouse,Tech Corridor,1351,3,3.5,12,1,6.4,Fitness Center; Home Cinema; Swimming Pool,3,647000
+PROP-1551,Cozy Tech Corridor Retreat,Single Family,Tech Corridor,1597,3,3.0,10,2,5.8,Scenic Balcony; Solar Panels,2,739000
+PROP-1552,Charming Suburbs Villa,Condo,Suburbs,1119,3,3.0,13,1,15.6,Scenic Balcony; Smart Home Automation; Wine Cellar,3,385000
+PROP-1553,Urban Waterfront Retreat,Condo,Waterfront,746,1,1.0,1,0,7.4,Home Cinema; Wine Cellar,2,455000
+PROP-1554,Charming Greenfield Oasis,Condo,Greenfield,954,3,3.0,0,1,16.6,24/7 Gated Security; Fitness Center; Scenic Balcony; Solar Panels,4,355000
+PROP-1555,Exclusive Historic District Townhome,Villa,Historic District,4026,6,6.0,7,4,5.8,24/7 Gated Security; Home Cinema; Scenic Balcony,3,1264000
+PROP-1556,Spacious Tech Corridor Oasis,Townhouse,Tech Corridor,1593,4,3.5,16,2,6.3,Fitness Center; Swimming Pool,2,690000
+PROP-1557,Classic Greenfield Manor,Condo,Greenfield,712,2,2.5,27,1,30.5,Private Garden,1,244000
+PROP-1558,Luxury Tech Corridor Estate,Townhouse,Tech Corridor,1990,3,3.0,2,1,4.7,24/7 Gated Security; EV Fast Charger; Home Cinema; Scenic Balcony; Smart Home Automation,5,889000
+PROP-1559,Charming Tech Corridor Haven,Condo,Tech Corridor,1255,3,2.5,9,1,4.4,Home Cinema; Smart Home Automation,2,618000
+PROP-1560,Classic Historic District Loft,Condo,Historic District,471,2,2.5,2,1,3.3,Solar Panels; Swimming Pool; Wine Cellar,3,384000
+PROP-1561,Serene Tech Corridor Villa,Villa,Tech Corridor,4437,6,6.0,10,2,3.2,24/7 Gated Security; Scenic Balcony; Smart Home Automation,3,1703000
+PROP-1562,Exclusive Tech Corridor Townhome,Condo,Tech Corridor,966,3,3.0,9,1,8.6,24/7 Gated Security; Fitness Center; Smart Home Automation; Wine Cellar,4,604000
+PROP-1563,Cozy Suburbs Haven,Villa,Suburbs,3673,6,6.0,0,2,13.1,EV Fast Charger; Home Cinema; Private Garden; Wine Cellar,4,1045000
+PROP-1564,Exclusive Suburbs Retreat,Condo,Suburbs,993,2,1.5,18,1,17.8,Fitness Center,1,274000
+PROP-1565,Urban Suburbs Villa,Single Family,Suburbs,2743,5,4.5,10,1,12.1,Home Cinema; Smart Home Automation; Wine Cellar,3,770000
+PROP-1566,Contemporary Waterfront Retreat,Townhouse,Waterfront,1630,3,3.0,0,1,11.6,EV Fast Charger; Private Garden; Swimming Pool; Wine Cellar,4,1023000
+PROP-1567,Luxury Downtown Retreat,Condo,Downtown,569,1,1.0,10,0,1.4,24/7 Gated Security; Home Cinema; Private Garden; Scenic Balcony; Smart Home Automation; Solar Panels,6,423000
+PROP-1568,Urban Suburbs Residence,Single Family,Suburbs,2436,5,4.5,5,2,19.3,24/7 Gated Security; Fitness Center; Solar Panels,3,695000
+PROP-1569,Charming Suburbs Retreat,Penthouse,Suburbs,2260,3,3.5,7,2,19.8,EV Fast Charger; Fitness Center; Private Garden; Wine Cellar,4,582000
+PROP-1570,Spacious Suburbs Manor,Single Family,Suburbs,1894,3,3.5,5,2,14.4,24/7 Gated Security; Wine Cellar,2,529000
+PROP-1571,Classic Downtown Townhome,Single Family,Downtown,2425,5,4.5,13,3,2.0,EV Fast Charger; Home Cinema; Private Garden; Scenic Balcony; Swimming Pool,5,1205000
+PROP-1572,Charming Suburbs Townhome,Penthouse,Suburbs,2786,5,5.0,12,2,21.6,EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Smart Home Automation; Solar Panels; Wine Cellar,7,711000
+PROP-1573,Serene Downtown Estate,Condo,Downtown,1380,3,3.0,1,1,2.3,24/7 Gated Security; Home Cinema; Swimming Pool,3,836000
+PROP-1574,Charming Suburbs Villa,Single Family,Suburbs,2298,4,4.5,9,2,13.6,24/7 Gated Security; Home Cinema; Swimming Pool,3,692000
+PROP-1575,Charming Tech Corridor Retreat,Single Family,Tech Corridor,2421,4,3.5,3,2,3.2,Smart Home Automation; Solar Panels; Wine Cellar,3,1127000
+PROP-1576,Charming Waterfront Villa,Condo,Waterfront,682,2,2.0,2,0,7.2,EV Fast Charger; Scenic Balcony,2,455000
+PROP-1577,Spacious Tech Corridor Townhome,Single Family,Tech Corridor,1948,4,4.0,2,1,5.9,EV Fast Charger; Smart Home Automation; Solar Panels; Wine Cellar,4,958000
+PROP-1578,Serene Tech Corridor Loft,Townhouse,Tech Corridor,1487,3,3.5,38,2,3.9,EV Fast Charger; Home Cinema; Private Garden; Scenic Balcony,4,594000
+PROP-1579,Urban Downtown Estate,Villa,Downtown,3957,6,6.0,4,2,0.4,Scenic Balcony; Solar Panels; Swimming Pool,3,1876000
+PROP-1580,Modern Greenfield Penthouse,Townhouse,Greenfield,1503,4,3.5,12,2,15.1,24/7 Gated Security; EV Fast Charger; Smart Home Automation,3,451000
+PROP-1581,Luxury Hillside View Loft,Single Family,Hillside View,2339,5,4.5,7,2,9.7,Solar Panels,1,881000
+PROP-1582,Classic Historic District Residence,Condo,Historic District,1118,3,3.0,21,1,7.1,24/7 Gated Security; EV Fast Charger; Smart Home Automation,3,390000
+PROP-1583,Cozy Waterfront Loft,Villa,Waterfront,3054,4,4.0,23,2,13.0,Fitness Center; Scenic Balcony; Solar Panels; Swimming Pool,4,1307000
+PROP-1584,Exclusive Waterfront Oasis,Condo,Waterfront,682,2,2.5,45,0,4.3,24/7 Gated Security; Home Cinema; Smart Home Automation,3,426000
+PROP-1585,Modern Historic District Oasis,Condo,Historic District,1362,3,3.0,33,0,3.7,Wine Cellar,1,448000
+PROP-1586,Cozy Tech Corridor Townhome,Single Family,Tech Corridor,1488,2,2.5,2,2,3.6,24/7 Gated Security; Scenic Balcony,2,725000
+PROP-1587,Classic Suburbs Retreat,Penthouse,Suburbs,3548,5,5.0,5,2,9.4,24/7 Gated Security; Private Garden; Wine Cellar,3,965000
+PROP-1588,Cozy Tech Corridor Penthouse,Condo,Tech Corridor,666,1,1.5,21,0,8.8,24/7 Gated Security; EV Fast Charger,2,313000
+PROP-1589,Charming Greenfield Retreat,Condo,Greenfield,856,2,2.0,6,1,15.9,Solar Panels; Swimming Pool,2,278000
+PROP-1590,Serene Greenfield Manor,Townhouse,Greenfield,1675,4,3.5,10,1,15.2,Solar Panels,1,407000
+PROP-1591,Contemporary Downtown Retreat,Villa,Downtown,3326,6,6.0,6,3,3.4,Home Cinema; Scenic Balcony; Smart Home Automation; Swimming Pool; Wine Cellar,5,1684000
+PROP-1592,Modern Tech Corridor Oasis,Single Family,Tech Corridor,1246,2,2.5,28,2,4.9,24/7 Gated Security; Fitness Center; Private Garden; Scenic Balcony; Smart Home Automation,5,554000
+PROP-1593,Classic Tech Corridor Oasis,Single Family,Tech Corridor,1853,4,3.5,19,2,4.0,24/7 Gated Security; Scenic Balcony; Swimming Pool; Wine Cellar,4,838000
+PROP-1594,Cozy Waterfront Villa,Penthouse,Waterfront,3117,5,5.0,7,2,7.7,24/7 Gated Security; EV Fast Charger; Fitness Center; Home Cinema; Private Garden; Smart Home Automation; Solar Panels,7,1704000
+PROP-1595,Exclusive Waterfront Loft,Condo,Waterfront,1119,2,1.5,4,1,8.3,24/7 Gated Security; EV Fast Charger,2,635000
+PROP-1596,Modern Historic District Haven,Condo,Historic District,640,2,1.5,17,1,3.5,Smart Home Automation; Solar Panels,2,322000
+PROP-1597,Luxury Downtown Oasis,Townhouse,Downtown,1512,4,3.5,13,1,0.5,24/7 Gated Security; EV Fast Charger; Home Cinema; Smart Home Automation,4,806000
+PROP-1598,Modern Greenfield Townhome,Condo,Greenfield,925,2,2.0,12,0,19.4,Scenic Balcony,1,238000
+PROP-1599,Serene Suburbs Villa,Single Family,Suburbs,1648,2,2.0,13,1,19.6,Home Cinema; Scenic Balcony,2,393000
+PROP-1600,Contemporary Suburbs Villa,Townhouse,Suburbs,1943,4,3.5,16,1,13.0,Private Garden; Scenic Balcony; Smart Home Automation,3,554000
+PROP-1601,Exclusive Tech Corridor Retreat,Condo,Tech Corridor,650,2,1.5,2,1,8.9,24/7 Gated Security; Home Cinema; Smart Home Automation; Wine Cellar,4,487000
+PROP-1602,Urban Suburbs Retreat,Penthouse,Suburbs,3246,5,5.0,7,2,16.7,EV Fast Charger; Fitness Center; Smart Home Automation; Wine Cellar,4,909000
+PROP-1603,Exclusive Tech Corridor Haven,Condo,Tech Corridor,566,2,1.5,12,1,2.7,Solar Panels; Swimming Pool,2,356000
+PROP-1604,Charming Suburbs Manor,Single Family,Suburbs,1281,2,2.5,11,1,15.3,EV Fast Charger; Swimming Pool,2,378000
+PROP-1605,Classic Downtown Oasis,Condo,Downtown,900,2,1.5,18,1,2.8,EV Fast Charger; Smart Home Automation,2,416000
+PROP-1606,Luxury Tech Corridor Retreat,Single Family,Tech Corridor,2355,4,4.0,1,2,8.8,Solar Panels,1,1094000
+PROP-1607,Luxury Historic District Manor,Single Family,Historic District,2576,4,3.5,12,2,4.1,Private Garden; Scenic Balcony; Smart Home Automation,3,837000
+PROP-1608,Luxury Greenfield Loft,Townhouse,Greenfield,1300,2,2.0,15,1,20.8,EV Fast Charger; Private Garden,2,314000
+PROP-1609,Modern Waterfront Residence,Townhouse,Waterfront,1883,4,3.5,0,1,4.9,EV Fast Charger; Private Garden; Scenic Balcony,3,1164000
+PROP-1610,Urban Downtown Retreat,Townhouse,Downtown,1328,3,3.0,13,1,3.4,Fitness Center; Home Cinema; Solar Panels; Wine Cellar,4,794000
+PROP-1611,Luxury Suburbs Estate,Penthouse,Suburbs,3611,5,5.0,1,2,16.4,24/7 Gated Security; EV Fast Charger; Fitness Center; Private Garden; Solar Panels; Wine Cellar,6,1061000
+PROP-1612,Luxury Historic District Townhome,Condo,Historic District,1107,3,3.0,15,0,4.4,Private Garden; Swimming Pool,2,456000
+PROP-1613,Spacious Historic District Oasis,Condo,Historic District,1425,3,2.5,21,0,6.5,24/7 Gated Security; Fitness Center; Private Garden,3,487000
+PROP-1614,Exclusive Downtown Manor,Condo,Downtown,565,1,1.5,30,0,1.3,24/7 Gated Security; EV Fast Charger; Fitness Center; Swimming Pool; Wine Cellar,5,381000
+PROP-1615,Classic Downtown Estate,Single Family,Downtown,2110,4,4.0,27,2,3.0,24/7 Gated Security; EV Fast Charger; Home Cinema; Private Garden; Swimming Pool; Wine Cellar,6,908000
+PROP-1616,Cozy Suburbs Estate,Single Family,Suburbs,2154,3,2.5,12,3,12.0,EV Fast Charger; Fitness Center; Home Cinema; Smart Home Automation,4,506000
+PROP-1617,Contemporary Waterfront Penthouse,Single Family,Waterfront,2550,4,4.5,9,2,5.6,Home Cinema; Solar Panels; Wine Cellar,3,1402000
+PROP-1618,Luxury Downtown Penthouse,Single Family,Downtown,2267,4,3.5,13,2,3.5,24/7 Gated Security; EV Fast Charger,2,1021000
+PROP-1619,Cozy Suburbs Loft,Single Family,Suburbs,1902,3,3.5,21,1,21.7,24/7 Gated Security,1,396000
+PROP-1620,Cozy Suburbs Retreat,Single Family,Suburbs,1762,4,4.5,7,3,12.5,EV Fast Charger; Fitness Center; Private Garden; Scenic Balcony; Smart Home Automation; Wine Cellar,6,627000
+PROP-1621,Contemporary Suburbs Haven,Condo,Suburbs,453,2,1.5,10,1,17.7,Home Cinema,1,229000
+PROP-1622,Contemporary Historic District Haven,Single Family,Historic District,2941,5,4.5,10,1,4.2,EV Fast Charger; Fitness Center; Home Cinema; Private Garden,4,954000
+PROP-1623,Classic Waterfront Loft,Townhouse,Waterfront,1552,3,3.0,18,1,11.4,Home Cinema; Smart Home Automation; Swimming Pool,3,855000
+PROP-1624,Luxury Tech Corridor Residence,Single Family,Tech Corridor,1785,3,2.5,3,2,4.0,24/7 Gated Security; EV Fast Charger; Fitness Center; Private Garden; Wine Cellar,5,925000
+PROP-1625,Contemporary Waterfront Retreat,Villa,Waterfront,4667,6,6.0,3,2,12.5,24/7 Gated Security; EV Fast Charger; Home Cinema; Smart Home Automation; Swimming Pool,5,2389000
+PROP-1626,Charming Downtown Loft,Single Family,Downtown,2760,5,4.5,3,2,2.3,Fitness Center; Private Garden; Scenic Balcony,3,1360000
+PROP-1627,Contemporary Waterfront Townhome,Single Family,Waterfront,3283,5,4.5,2,2,14.7,Home Cinema; Scenic Balcony; Solar Panels,3,1613000
+PROP-1628,Exclusive Suburbs Villa,Condo,Suburbs,674,1,1.5,7,1,10.7,Fitness Center; Home Cinema; Solar Panels,3,302000
+PROP-1629,Classic Waterfront Penthouse,Townhouse,Waterfront,1800,3,3.5,0,2,7.5,24/7 Gated Security; EV Fast Charger; Wine Cellar,3,1169000
+PROP-1630,Cozy Greenfield Loft,Single Family,Greenfield,1635,3,3.5,13,3,20.2,24/7 Gated Security; Scenic Balcony,2,426000
+PROP-1631,Serene Waterfront Haven,Single Family,Waterfront,2649,4,4.5,10,2,7.8,24/7 Gated Security; EV Fast Charger; Private Garden; Smart Home Automation,4,1303000
+PROP-1632,Charming Tech Corridor Loft,Villa,Tech Corridor,3701,5,5.5,12,2,9.0,Home Cinema; Smart Home Automation; Solar Panels; Swimming Pool; Wine Cellar,5,1472000
+PROP-1633,Luxury Hillside View Oasis,Single Family,Hillside View,1064,2,1.5,25,1,8.6,Home Cinema; Smart Home Automation; Solar Panels; Swimming Pool,4,423000
+PROP-1634,Charming Suburbs Retreat,Single Family,Suburbs,3070,5,4.5,0,2,19.4,Private Garden; Wine Cellar,2,771000
+PROP-1635,Classic Historic District Oasis,Single Family,Historic District,2294,5,4.5,7,1,6.4,Fitness Center; Private Garden,2,833000
+PROP-1636,Luxury Downtown Townhome,Townhouse,Downtown,1110,3,2.5,5,1,0.8,Fitness Center; Smart Home Automation; Wine Cellar,3,733000
+PROP-1637,Charming Suburbs Townhome,Townhouse,Suburbs,1397,3,2.5,5,1,9.4,24/7 Gated Security; Private Garden; Scenic Balcony; Swimming Pool; Wine Cellar,5,545000
+PROP-1638,Classic Greenfield Penthouse,Condo,Greenfield,867,2,2.0,13,1,25.1,Smart Home Automation; Swimming Pool; Wine Cellar,3,252000
+PROP-1639,Urban Waterfront Townhome,Single Family,Waterfront,2051,3,3.5,6,1,10.6,Scenic Balcony; Solar Panels; Swimming Pool,3,1084000
+PROP-1640,Classic Waterfront Manor,Single Family,Waterfront,2478,5,4.5,7,1,10.9,Home Cinema; Scenic Balcony; Solar Panels,3,1370000
+PROP-1641,Exclusive Waterfront Villa,Townhouse,Waterfront,1797,3,3.5,1,2,13.6,Fitness Center; Scenic Balcony; Smart Home Automation,3,1027000
+PROP-1642,Charming Historic District Oasis,Single Family,Historic District,2439,4,4.0,13,3,5.6,Home Cinema,1,715000
+PROP-1643,Contemporary Suburbs Retreat,Condo,Suburbs,781,1,1.0,5,1,8.8,Home Cinema; Private Garden; Wine Cellar,3,316000
+PROP-1644,Classic Historic District Loft,Single Family,Historic District,2662,5,4.5,7,1,2.8,Fitness Center; Private Garden; Scenic Balcony; Solar Panels; Wine Cellar,5,992000
+PROP-1645,Spacious Suburbs Residence,Condo,Suburbs,1056,3,2.5,0,1,11.1,Smart Home Automation,1,414000
+PROP-1646,Charming Tech Corridor Residence,Villa,Tech Corridor,3760,5,5.0,3,2,8.1,EV Fast Charger; Fitness Center; Scenic Balcony; Solar Panels; Swimming Pool,5,1555000
+PROP-1647,Charming Downtown Townhome,Townhouse,Downtown,1560,3,3.5,0,1,2.9,Swimming Pool,1,805000
+PROP-1648,Luxury Greenfield Residence,Penthouse,Greenfield,3049,5,5.0,13,2,16.4,24/7 Gated Security; Fitness Center; Home Cinema; Private Garden; Solar Panels; Swimming Pool,6,699000
+PROP-1649,Exclusive Suburbs Oasis,Condo,Suburbs,645,1,1.0,5,0,8.7,Home Cinema; Smart Home Automation,2,258000
+PROP-1650,Luxury Tech Corridor Retreat,Villa,Tech Corridor,4000,6,6.0,21,3,3.4,Fitness Center; Scenic Balcony; Solar Panels; Swimming Pool; Wine Cellar,5,1391000

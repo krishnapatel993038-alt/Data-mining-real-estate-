@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Real Estate Price Prediction & Dynamic Property Matchmaker</title>
+  <meta name="description" content="AI & Data Mining platform integrating Linear/Non-Linear Regression models for price estimation with Constraint Satisfaction Problem (CSP) solvers for dynamic property matchmaking.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+  <!-- Chart.js CDN for interactive visual graphs -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body class="theme-dark">
+  <!-- Top Navigation Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+            <polyline points="9 22 9 12 15 12 15 22"></polyline>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>EstatePulse <span class="badge-ai">AI + Data Mining</span></h1>
+          <p class="tagline">Price Estimation & Constraint Satisfaction Matchmaker</p>
+        </div>
+      </div>
+
+      <nav class="nav-tabs" role="tablist">
+        <button class="tab-btn active" id="tab-btn-predictor" data-tab="tab-predictor" role="tab" aria-selected="true">
+          <span class="tab-icon">🔮</span> Price Predictor & Regression Lab
+        </button>
+        <button class="tab-btn" id="tab-btn-csp" data-tab="tab-csp" role="tab" aria-selected="false">
+          <span class="tab-icon">🎯</span> AI CSP Property Matchmaker
+        </button>
+        <button class="tab-btn" id="tab-btn-catalog" data-tab="tab-catalog" role="tab" aria-selected="false">
+          <span class="tab-icon">📑</span> Property Inventory
+        </button>
+        <button class="tab-btn" id="tab-btn-theory" data-tab="tab-theory" role="tab" aria-selected="false">
+          <span class="tab-icon">📐</span> Theory & Architecture
+        </button>
+      </nav>
+
+      <div class="header-status">
+        <span class="status-dot"></span>
+        <span class="status-label">Model Suite Active</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Layout -->
+  <main class="main-wrapper">
+
+    <!-- ================================================================= -->
+    <!-- TAB 1: PRICE PREDICTOR & REGRESSION LAB -->
+    <!-- ================================================================= -->
+    <section id="tab-predictor" class="tab-content active" role="tabpanel">
+      <div class="section-hero">
+        <div class="hero-badge">Data Mining & Regression Suite</div>
+        <h2>Real Estate Valuation & Comparative Machine Learning</h2>
+        <p>Estimate property market value using Simple & Multiple Linear Regression, Polynomial (Non-Linear), Ridge, and Random Forest ensemble models.</p>
+      </div>
+
+      <div class="split-grid">
+        <!-- Input Form -->
+        <div class="card form-card">
+          <div class="card-header">
+            <h3><span class="accent-dot"></span> Property Attributes</h3>
+            <span class="card-hint">Adjust parameters to simulate market pricing</span>
+          </div>
+          <form id="prediction-form" class="property-form">
+            <div class="form-row">
+              <div class="form-group flex-2">
+                <label for="input-sqft">Living Area (sqft)</label>
+                <div class="range-with-input">
+                  <input type="range" id="range-sqft" min="400" max="6500" value="1850" step="50">
+                  <input type="number" id="input-sqft" min="400" max="6500" value="1850">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="input-location">Neighborhood</label>
+                <select id="input-location" class="form-select">
+                  <!-- Populated dynamically -->
+                </select>
+              </div>
+            </div>
+
+            <div class="form-row four-col">
+              <div class="form-group">
+                <label for="input-bedrooms">Bedrooms</label>
+                <select id="input-bedrooms" class="form-select">
+                  <option value="1">1 Bed</option>
+                  <option value="2">2 Beds</option>
+                  <option value="3" selected>3 Beds</option>
+                  <option value="4">4 Beds</option>
+                  <option value="5">5 Beds</option>
+                  <option value="6">6+ Beds</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="input-bathrooms">Bathrooms</label>
+                <select id="input-bathrooms" class="form-select">
+                  <option value="1.0">1.0 Bath</option>
+                  <option value="1.5">1.5 Baths</option>
+                  <option value="2.0" selected>2.0 Baths</option>
+                  <option value="2.5">2.5 Baths</option>
+                  <option value="3.0">3.0 Baths</option>
+                  <option value="4.0">4.0+ Baths</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="input-age">Age (Years)</label>
+                <input type="number" id="input-age" min="0" max="80" value="8" class="form-input">
+              </div>
+              <div class="form-group">
+                <label for="input-garage">Garage Spaces</label>
+                <select id="input-garage" class="form-select">
+                  <option value="0">None (0)</option>
+                  <option value="1">1 Car</option>
+                  <option value="2" selected>2 Cars</option>
+                  <option value="3">3 Cars</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="input-distance">Distance to City Center (<span id="dist-val">4.5</span> km)</label>
+              <input type="range" id="input-distance" min="0.5" max="25" value="4.5" step="0.5">
+            </div>
+
+            <div class="form-group">
+              <label>Amenities Included</label>
+              <div id="amenities-checkbox-grid" class="checkbox-grid">
+                <!-- Populated dynamically -->
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="selected-model-selector">Primary Inference Model</label>
+              <select id="selected-model-selector" class="form-select">
+                <option value="Random Forest (Non-Linear)" selected>Random Forest Regressor (Non-Linear Ensemble)</option>
+                <option value="Multiple Linear Regression">Multiple Linear Regression (All Features)</option>
+                <option value="Polynomial Regression (Degree 2)">Polynomial Regression (Non-Linear Interactions)</option>
+                <option value="Ridge Regression">Ridge Regression (L2 Regularized)</option>
+                <option value="Simple Linear Regression">Simple Linear Regression (Price vs sqft)</option>
+              </select>
+            </div>
+
+            <button type="submit" id="btn-predict" class="btn-primary">
+              <span class="btn-icon">⚡</span> Run Multi-Model Estimation
+            </button>
+          </form>
+        </div>
+
+        <!-- Output & Predictions Dashboard -->
+        <div class="output-column">
+          <!-- Primary Highlight Card -->
+          <div class="card result-hero-card">
+            <div class="hero-val-header">
+              <div>
+                <span class="sub-label">Predicted Market Value</span>
+                <div class="price-display">
+                  <span id="predicted-price" class="price-number">$---,---</span>
+                </div>
+              </div>
+              <div class="metric-pill">
+                <span class="pill-label">Est. Price/sqft</span>
+                <span id="predicted-price-sqft" class="pill-value">$--/sqft</span>
+              </div>
+            </div>
+
+            <div class="confidence-box">
+              <div class="ci-header">
+                <span>80% Model Confidence Interval</span>
+                <span id="ci-range-text">$---,--- to $---,---</span>
+              </div>
+              <div class="confidence-bar-bg">
+                <div id="confidence-bar-fill" class="confidence-bar-fill"></div>
+              </div>
+              <span class="ci-hint" id="active-model-title">Based on Random Forest (Non-Linear)</span>
+            </div>
+          </div>
+
+          <!-- All Model Side-by-Side Comparison -->
+          <div class="card">
+            <div class="card-header">
+              <h3>Model Ensemble Comparison</h3>
+              <span class="card-hint">Multi-algorithm consensus</span>
+            </div>
+            <div id="models-comparison-grid" class="models-grid">
+              <!-- Dynamically populated model cards -->
+            </div>
+          </div>
+
+          <!-- Simple Linear Regression Formula Card -->
+          <div class="card formula-card">
+            <div class="card-header">
+              <h3>Simple Linear Regression Formula (Data Mining)</h3>
+              <span class="formula-tag">OLS Formulation</span>
+            </div>
+            <div class="equation-box">
+              <div class="math-formula" id="slr-equation">Price = Intercept + Slope × Area</div>
+              <div class="calculated-math" id="slr-calculation-step">Calculated: $---</div>
+            </div>
+            <p class="formula-caption">Derived via Ordinary Least Squares minimizing residual sum of squares: \(\min \sum (y_i - \hat{y}_i)^2\).</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Model Performance Analytics Grid -->
+      <div class="analytics-grid">
+        <div class="card">
+          <div class="card-header">
+            <h3>Model Evaluation Metrics Benchmark</h3>
+            <span class="card-hint">Trained on 650 curated properties (80/20 train/test split)</span>
+          </div>
+          <div class="table-responsive">
+            <table class="data-table" id="metrics-table">
+              <thead>
+                <tr>
+                  <th>Model Architecture</th>
+                  <th>Type</th>
+                  <th>R² Score</th>
+                  <th>RMSE ($)</th>
+                  <th>MAE ($)</th>
+                  <th>MAPE (%)</th>
+                </tr>
+              </thead>
+              <tbody id="metrics-tbody">
+                <!-- Dynamically generated rows -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <h3>Feature Importance Analysis (Random Forest)</h3>
+            <span class="card-hint">Gini impurity reduction per attribute</span>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="chart-feature-importance"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================================================================= -->
+    <!-- TAB 2: AI CSP PROPERTY MATCHMAKER -->
+    <!-- ================================================================= -->
+    <section id="tab-csp" class="tab-content" role="tabpanel">
+      <div class="section-hero">
+        <div class="hero-badge badge-ai">Artificial Intelligence & CSP</div>
+        <h2>Dynamic Property Matchmaker (Constraint Satisfaction)</h2>
+        <p>Uses Forward Checking, AC-3 style domain reduction, backtracking search, and soft constraint relaxation to match buyers with ideal listings.</p>
+      </div>
+
+      <div class="split-grid csp-grid">
+        <!-- CSP Preference Form -->
+        <div class="card form-card">
+          <div class="card-header">
+            <h3><span class="accent-dot purple"></span> Buyer Constraint Specifications</h3>
+            <span class="card-hint">Define Hard (Mandatory) & Soft (Flexible) Constraints</span>
+          </div>
+
+          <form id="csp-form" class="csp-form">
+            <!-- Budget -->
+            <div class="form-group">
+              <label for="csp-budget">Maximum Budget (USD)</label>
+              <div class="input-prefix-wrapper">
+                <span class="prefix">$</span>
+                <input type="number" id="csp-budget" min="100000" max="3000000" step="10000" value="650000" class="form-input">
+              </div>
+            </div>
+
+            <!-- Locations -->
+            <div class="form-group">
+              <label>Target Neighborhoods (Leave empty for any)</label>
+              <div id="csp-locations-chips" class="chip-select-group">
+                <!-- Dynamically generated location chips -->
+              </div>
+            </div>
+
+            <!-- Bedrooms & Bathrooms -->
+            <div class="form-row two-col">
+              <div class="form-group">
+                <label for="csp-bedrooms">Min. Bedrooms (Hard)</label>
+                <select id="csp-bedrooms" class="form-select">
+                  <option value="1">1+ Bedrooms</option>
+                  <option value="2">2+ Bedrooms</option>
+                  <option value="3" selected>3+ Bedrooms</option>
+                  <option value="4">4+ Bedrooms</option>
+                  <option value="5">5+ Bedrooms</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="csp-bathrooms">Min. Bathrooms (Hard)</label>
+                <select id="csp-bathrooms" class="form-select">
+                  <option value="1.0">1.0+ Baths</option>
+                  <option value="1.5">1.5+ Baths</option>
+                  <option value="2.0" selected>2.0+ Baths</option>
+                  <option value="3.0">3.0+ Baths</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Commute Distance -->
+            <div class="form-group">
+              <label for="csp-commute">Max Distance to City Center (<span id="csp-commute-val">12</span> km)</label>
+              <input type="range" id="csp-commute" min="2" max="30" value="12" step="1">
+            </div>
+
+            <!-- Essential Amenities (Hard Constraints) -->
+            <div class="form-group">
+              <label class="label-with-badge">
+                Essential Amenities (Hard Constraints)
+                <span class="tag-hard">Strict Mandatory</span>
+              </label>
+              <div id="csp-essential-amenities" class="checkbox-grid">
+                <!-- Dynamically filled -->
+              </div>
+            </div>
+
+            <!-- Desired Amenities (Soft Constraints) -->
+            <div class="form-group">
+              <label class="label-with-badge">
+                Desired Amenities (Soft Constraints)
+                <span class="tag-soft">Preference Scoring Bonus</span>
+              </label>
+              <div id="csp-desired-amenities" class="checkbox-grid">
+                <!-- Dynamically filled -->
+              </div>
+            </div>
+
+            <!-- Soft Relaxation Toggle -->
+            <div class="form-group checkbox-toggle-wrapper">
+              <label class="toggle-switch">
+                <input type="checkbox" id="csp-allow-relaxation" checked>
+                <span class="slider"></span>
+              </label>
+              <div class="toggle-label-group">
+                <span class="toggle-title">Enable Soft Constraint Relaxation</span>
+                <span class="toggle-desc">If over-constrained (0 exact matches) or near-misses exist, evaluate tiered relaxation.</span>
+              </div>
+            </div>
+
+            <button type="submit" id="btn-csp-solve" class="btn-primary btn-ai">
+              <span class="btn-icon">⚡</span> Execute CSP Matchmaker
+            </button>
+          </form>
+        </div>
+
+        <!-- CSP Execution Trace & Results Panel -->
+        <div class="output-column">
+          <!-- Execution Summary Banner -->
+          <div class="card status-banner-card">
+            <div class="status-grid">
+              <div class="status-stat">
+                <span class="stat-num" id="csp-exact-count">-</span>
+                <span class="stat-label">Exact CSP Matches</span>
+              </div>
+              <div class="status-stat">
+                <span class="stat-num" id="csp-relaxed-count">-</span>
+                <span class="stat-label">Relaxed Candidates</span>
+              </div>
+              <div class="status-stat">
+                <span class="stat-num" id="csp-exec-time">- ms</span>
+                <span class="stat-label">CSP Propagation Time</span>
+              </div>
+              <div class="status-stat">
+                <span class="stat-num" id="csp-state-status">-</span>
+                <span class="stat-label">Constraint Status</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Step-by-Step Forward Checking Visual Trace -->
+          <div class="card trace-card">
+            <div class="card-header">
+              <h3><span class="trace-icon">🔍</span> Forward Checking Domain Pruning Pipeline</h3>
+              <span class="card-hint">Variable domain reduction step-by-step</span>
+            </div>
+            <div id="csp-trace-container" class="trace-stepper">
+              <div class="placeholder-text">Run the CSP matchmaker to observe constraint propagation & domain pruning in action.</div>
+            </div>
+          </div>
+
+          <!-- Matches Tabs & Listings -->
+          <div class="card results-catalog-card">
+            <div class="card-header tabs-header">
+              <div class="subtabs">
+                <button class="subtab-btn active" id="subtab-exact">Exact Matches (<span id="exact-badge">0</span>)</button>
+                <button class="subtab-btn" id="subtab-relaxed">Relaxed Alternatives (<span id="relaxed-badge">0</span>)</button>
+              </div>
+            </div>
+
+            <div id="csp-matches-list" class="matches-list">
+              <!-- Dynamically populated property match cards -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================================================================= -->
+    <!-- TAB 3: PROPERTY INVENTORY & CATALOG -->
+    <!-- ================================================================= -->
+    <section id="tab-catalog" class="tab-content" role="tabpanel">
+      <div class="section-hero">
+        <div class="hero-badge">Catalog Explorer</div>
+        <h2>Real Estate Dataset & Market Inventory</h2>
+        <p>Explore the complete synthesized database of real estate properties with live filtering, statistical distributions, and valuation analysis.</p>
+      </div>
+
+      <!-- Market Stats Strip -->
+      <div class="stats-strip" id="market-stats-strip">
+        <div class="card stat-card">
+          <span class="stat-title">Total Database Properties</span>
+          <span class="stat-val" id="stat-total-props">650</span>
+        </div>
+        <div class="card stat-card">
+          <span class="stat-title">Average Listing Price</span>
+          <span class="stat-val" id="stat-avg-price">$---,---</span>
+        </div>
+        <div class="card stat-card">
+          <span class="stat-title">Minimum Price</span>
+          <span class="stat-val" id="stat-min-price">$---,---</span>
+        </div>
+        <div class="card stat-card">
+          <span class="stat-title">Maximum Price</span>
+          <span class="stat-val" id="stat-max-price">$---,---</span>
+        </div>
+      </div>
+
+      <div class="card filter-bar-card">
+        <div class="filter-controls">
+          <div class="control-group">
+            <label>Neighborhood</label>
+            <select id="catalog-filter-location" class="form-select">
+              <option value="All">All Neighborhoods</option>
+              <!-- Filled via JS -->
+            </select>
+          </div>
+          <div class="control-group">
+            <label>Min. Bedrooms</label>
+            <select id="catalog-filter-beds" class="form-select">
+              <option value="">Any</option>
+              <option value="1">1+ Bed</option>
+              <option value="2">2+ Beds</option>
+              <option value="3">3+ Beds</option>
+              <option value="4">4+ Beds</option>
+            </select>
+          </div>
+          <div class="control-group">
+            <label>Sort By</label>
+            <select id="catalog-sort-by" class="form-select">
+              <option value="price">Price</option>
+              <option value="sqft">Living Area (sqft)</option>
+              <option value="age">Age (Newest first)</option>
+              <option value="distance_to_center_km">Commute Distance</option>
+            </select>
+          </div>
+          <div class="control-group">
+            <label>Order</label>
+            <select id="catalog-sort-order" class="form-select">
+              <option value="asc">Ascending</option>
+              <option value="desc">Descending</option>
+            </select>
+          </div>
+          <button id="btn-apply-filters" class="btn-secondary">Apply Filters</button>
+        </div>
+      </div>
+
+      <div id="catalog-grid" class="property-cards-grid">
+        <!-- Rendered property cards -->
+      </div>
+
+      <div class="pagination-bar" id="catalog-pagination">
+        <button id="btn-prev-page" class="btn-page" disabled>&larr; Previous</button>
+        <span id="page-indicator">Page 1 of 1</span>
+        <button id="btn-next-page" class="btn-page">Next &rarr;</button>
+      </div>
+
+      <!-- Market Scatter Plot -->
+      <div class="card mt-lg">
+        <div class="card-header">
+          <h3>Market Price vs. Square Footage Distribution</h3>
+          <span class="card-hint">Sampled actual listings colored by neighborhood</span>
+        </div>
+        <div class="chart-wrapper h-360">
+          <canvas id="chart-market-scatter"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================================================================= -->
+    <!-- TAB 4: THEORY & ARCHITECTURE -->
+    <!-- ================================================================= -->
+    <section id="tab-theory" class="tab-content" role="tabpanel">
+      <div class="section-hero">
+        <div class="hero-badge">Academic Architecture</div>
+        <h2>Data Mining & Artificial Intelligence Foundations</h2>
+        <p>Mathematical formulations and algorithmic underpinnings powering this system.</p>
+      </div>
+
+      <div class="theory-grid">
+        <!-- Part A: Data Mining -->
+        <div class="card theory-card">
+          <div class="card-header">
+            <h3><span class="tag-dm">Data Mining</span> Regression Analysis</h3>
+          </div>
+          <div class="theory-body">
+            <h4>1. Simple Linear Regression (SLR)</h4>
+            <p>Estimates price \(\hat{y}\) based exclusively on living area \(x_{sqft}\) using Ordinary Least Squares (OLS):</p>
+            <div class="code-pill">$$\hat{y} = \beta_0 + \beta_1 x_{sqft}$$</div>
+            <p>Where \(\beta_1 = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2}\) and \(\beta_0 = \bar{y} - \beta_1 \bar{x}\).</p>
+
+            <h4>2. Multiple Linear Regression (MLR)</h4>
+            <p>Incorporates an \(m\)-dimensional feature vector with one-hot encoded neighborhood indicators and binary amenity vectors:</p>
+            <div class="code-pill">$$\hat{y} = \beta_0 + \sum_{j=1}^{m} \beta_j x_j + \epsilon$$</div>
+
+            <h4>3. Polynomial Regression (Degree 2)</h4>
+            <p>Captures non-linear compounding returns and feature interactions (\(x_i \cdot x_j\)), such as high sqft combined with prime location having an exponential multiplier on price.</p>
+
+            <h4>4. Random Forest Regressor</h4>
+            <p>Ensemble of 100 de-correlated decision trees mitigating variance through bagging and random feature subsampling. Capable of discovering non-linear price frontiers.</p>
+
+            <h4>Evaluation Metrics Computed</h4>
+            <ul class="theory-list">
+              <li><strong>\(R^2\) Score:</strong> Proportion of price variance explained (\(1 - \frac{SS_{res}}{SS_{tot}}\)).</li>
+              <li><strong>RMSE:</strong> Root Mean Squared Error, penalizing large valuation deviations.</li>
+              <li><strong>MAE:</strong> Mean Absolute Error in actual dollars.</li>
+              <li><strong>MAPE:</strong> Mean Absolute Percentage Error.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Part B: AI CSP -->
+        <div class="card theory-card">
+          <div class="card-header">
+            <h3><span class="tag-ai">Artificial Intelligence</span> Constraint Satisfaction Problem</h3>
+          </div>
+          <div class="theory-body">
+            <h4>Formal CSP Formulation</h4>
+            <p>Defined as a triplet \(\langle X, D, C \rangle\):</p>
+            <ul class="theory-list">
+              <li><strong>Variables \(X\):</strong> Target Property Selection \(P\).</li>
+              <li><strong>Domains \(D\):</strong> Finite set of catalog inventory items \(D(P) = \{p_1, p_2, \dots, p_N\}\).</li>
+              <li><strong>Constraints \(C\):</strong> Hard and Soft conditions specifying acceptable assignments.</li>
+            </ul>
+
+            <h4>Hard Constraints (Inviolable)</h4>
+            <ul class="theory-list">
+              <li>\(C_{budget}(P): \text{price}(P) \le \text{max\_budget}\)</li>
+              <li>\(C_{location}(P): \text{location}(P) \in \text{preferred\_locations}\)</li>
+              <li>\(C_{bedrooms}(P): \text{bedrooms}(P) \ge \text{min\_bedrooms}\)</li>
+              <li>\(C_{bathrooms}(P): \text{bathrooms}(P) \ge \text{min\_bathrooms}\)</li>
+              <li>\(C_{amenities}(P): \text{essential\_amenities} \subseteq \text{amenities}(P)\)</li>
+            </ul>
+
+            <h4>Forward Checking (AC-3 style Domain Pruning)</h4>
+            <p>Whenever a constraint is registered, forward checking eagerly scans property domain \(D(P)\) and prunes any assignment that violates consistency, shrinking domain size instantaneously from \(N \to N' \to N''\) without costly exhaustive backtracking.</p>
+
+            <h4>Soft Constraint Relaxation & Scoring</h4>
+            <p>When preferences yield an <em>over-constrained</em> state (\(|D(P)| = 0\)), our engine engages tiered relaxation:</p>
+            <ol class="theory-list-numbered">
+              <li><strong>Tier 1:</strong> Budget expansion by +10% or allow 1 missing essential amenity.</li>
+              <li><strong>Tier 2:</strong> Budget expansion by +20% or 1 fewer bedroom tolerance.</li>
+              <li><strong>Satisfaction Scoring:</strong> Weighted combination of base compliance, desired amenity coverage bonus, and proximity bonus.</li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Property Detail Modal -->
+  <div id="property-modal" class="modal-backdrop">
+    <div class="modal-card">
+      <button id="modal-close-btn" class="modal-close">&times;</button>
+      <div id="modal-content">
+        <!-- Rendered property detail -->
+      </div>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    <div class="footer-container">
+      <p>Real Estate Price Prediction & Dynamic Property Matchmaker &bull; Built with FastAPI, Scikit-Learn, and Vanilla Web Technologies.</p>
+    </div>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
